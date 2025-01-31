@@ -1,0 +1,5908 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="//gmpg.org/xfn/11">
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" as="style"
+        onload="this.rel='stylesheet'">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <link rel="alternate" hreflang="en" href="image/1LOGOS.PNG" />
+    <link rel="alternate" hreflang="ar" href="" />
+    <link rel="alternate" hreflang="x-default" href="image/1LOGOS.PNG" />
+
+    <!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->
+    <title>Video Gallery - AV Group</title>
+    <meta name="description"
+        content="Browse the AV Group Video Gallery to explore our diverse range of projects. Watch videos showcasing our luxurious developments and innovative designs in the UAE." />
+    <link rel="canonical" href="image/1LOGOS.PNG" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Video Gallery - AV Group" />
+    <meta property="og:description"
+        content="Browse the AV Group Video Gallery to explore our diverse range of projects. Watch videos showcasing our luxurious developments and innovative designs in the UAE." />
+    <meta property="og:url" content="image/1LOGOS.PNG" />
+    <meta property="og:site_name" content="AV Group" />
+    <meta property="article:modified_time" content="2024-12-06T13:20:57+00:00" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:label1" content="Est. reading time" />
+    <meta name="twitter:data1" content="1 minute" />
+
+    <!-- / Yoast SEO plugin. -->
+
+
+    <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+    <link rel="alternate" type="application/rss+xml" title="AV Group &raquo; Feed"
+        href="https://danubeproperties.com/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="AV Group &raquo; Comments Feed"
+        href="https://danubeproperties.com/comments/feed/" />
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    window._wpemojiSettings = {
+        "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/",
+        "ext": ".png",
+        "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/",
+        "svgExt": ".svg",
+        "source": {
+            "concatemoji": "https:\/\/danubeproperties.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=c699755984206a2cda91ccec8fd5a944"
+        }
+    };
+    /*! This file is auto-generated */
+    ! function(i, n) {
+        var o, s, e;
+
+        function c(e) {
+            try {
+                var t = {
+                    supportTests: e,
+                    timestamp: (new Date).valueOf()
+                };
+                sessionStorage.setItem(o, JSON.stringify(t))
+            } catch (e) {}
+        }
+
+        function p(e, t, n) {
+            e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+            var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data),
+                r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e
+                    .getImageData(0, 0, e.canvas.width, e.canvas.height).data));
+            return t.every(function(e, t) {
+                return e === r[t]
+            })
+        }
+
+        function u(e, t, n) {
+            switch (t) {
+                case "flag":
+                    return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !
+                        n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e,
+                            "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+                            "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
+                            );
+                case "emoji":
+                    return !n(e, "\ud83d\udc26\u200d\u2b1b", "\ud83d\udc26\u200b\u2b1b")
+            }
+            return !1
+        }
+
+        function f(e, t, n) {
+            var r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(
+                    300, 150) : i.createElement("canvas"),
+                a = r.getContext("2d", {
+                    willReadFrequently: !0
+                }),
+                o = (a.textBaseline = "top", a.font = "600 32px Arial", {});
+            return e.forEach(function(e) {
+                o[e] = t(a, e, n)
+            }), o
+        }
+
+        function t(e) {
+            var t = i.createElement("script");
+            t.src = e, t.defer = !0, i.head.appendChild(t)
+        }
+        "undefined" != typeof Promise && (o = "wpEmojiSettingsSupports", s = ["flag", "emoji"], n.supports = {
+            everything: !0,
+            everythingExceptFlag: !0
+        }, e = new Promise(function(e) {
+            i.addEventListener("DOMContentLoaded", e, {
+                once: !0
+            })
+        }), new Promise(function(t) {
+            var n = function() {
+                try {
+                    var e = JSON.parse(sessionStorage.getItem(o));
+                    if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() <
+                        e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+                } catch (e) {}
+                return null
+            }();
+            if (!n) {
+                if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" !=
+                    typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), p
+                            .toString()
+                        ].join(",") + "));",
+                        r = new Blob([e], {
+                            type: "text/javascript"
+                        }),
+                        a = new Worker(URL.createObjectURL(r), {
+                            name: "wpTestEmojiSupports"
+                        });
+                    return void(a.onmessage = function(e) {
+                        c(n = e.data), a.terminate(), t(n)
+                    })
+                } catch (e) {}
+                c(n = f(s, u, p))
+            }
+            t(n)
+        }).then(function(e) {
+            for (var t in e) n.supports[t] = e[t], n.supports.everything = n.supports.everything && n
+                .supports[t], "flag" !== t && (n.supports.everythingExceptFlag = n.supports
+                    .everythingExceptFlag && n.supports[t]);
+            n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n
+                .DOMReady = !1, n.readyCallback = function() {
+                    n.DOMReady = !0
+                }
+        }).then(function() {
+            return e
+        }).then(function() {
+            var e;
+            n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e
+                .concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji)))
+        }))
+    }((window, document), window._wpemojiSettings);
+    /* ]]> */
+    </script>
+    <link rel='stylesheet' id='dce-animations-css'
+        href='https://danubeproperties.com/wp-content/plugins/dynamic-content-for-elementor/assets/css/animations.css?ver=2.12.8'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-frontend-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-25524-css'
+        href='https://danubeproperties.com/wp-content/uploads/elementor/css/post-25524.css?ver=1733837462'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wpml-legacy-dropdown-0-css'
+        href='https://danubeproperties.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/style.min.css?ver=1'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-image-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-icon-list-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <style id='wp-emoji-styles-inline-css' type='text/css'>
+    img.wp-smiley,
+    img.emoji {
+        display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        height: 1em !important;
+        width: 1em !important;
+        margin: 0 0.07em !important;
+        vertical-align: -0.1em !important;
+        background: none !important;
+        padding: 0 !important;
+    }
+    </style>
+    <link rel='stylesheet' id='wp-components-css'
+        href='https://danubeproperties.com/wp-includes/css/dist/components/style.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-preferences-css'
+        href='https://danubeproperties.com/wp-includes/css/dist/preferences/style.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-block-editor-css'
+        href='https://danubeproperties.com/wp-includes/css/dist/block-editor/style.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-reusable-blocks-css'
+        href='https://danubeproperties.com/wp-includes/css/dist/reusable-blocks/style.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-patterns-css'
+        href='https://danubeproperties.com/wp-includes/css/dist/patterns/style.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wp-editor-css'
+        href='https://danubeproperties.com/wp-includes/css/dist/editor/style.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='sjb_shortcode_block-cgb-style-css-css'
+        href='https://danubeproperties.com/wp-content/plugins/simple-job-board/sjb-block/dist/blocks.style.build.css'
+        type='text/css' media='all' />
+    <style id='classic-theme-styles-inline-css' type='text/css'>
+    /*! This file is auto-generated */
+    .wp-block-button__link {
+        color: #fff;
+        background-color: #32100c;
+        border-radius: 9999px;
+        box-shadow: none;
+        text-decoration: none;
+        padding: calc(.667em + 2px) calc(1.333em + 2px);
+        font-size: 1.125em
+    }
+
+    .wp-block-file__button {
+        background: #32100c;
+        color: #fff;
+        text-decoration: none
+    }
+    </style>
+    <style id='global-styles-inline-css' type='text/css'>
+    body {
+        --wp--preset--color--black: #000000;
+        --wp--preset--color--cyan-bluish-gray: #abb8c3;
+        --wp--preset--color--white: #ffffff;
+        --wp--preset--color--pale-pink: #f78da7;
+        --wp--preset--color--vivid-red: #cf2e2e;
+        --wp--preset--color--luminous-vivid-orange: #ff6900;
+        --wp--preset--color--luminous-vivid-amber: #fcb900;
+        --wp--preset--color--light-green-cyan: #7bdcb5;
+        --wp--preset--color--vivid-green-cyan: #00d084;
+        --wp--preset--color--pale-cyan-blue: #8ed1fc;
+        --wp--preset--color--vivid-cyan-blue: #0693e3;
+        --wp--preset--color--vivid-purple: #9b51e0;
+        --wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg, rgba(6, 147, 227, 1) 0%, rgb(155, 81, 224) 100%);
+        --wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg, rgb(122, 220, 180) 0%, rgb(0, 208, 130) 100%);
+        --wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg, rgba(252, 185, 0, 1) 0%, rgba(255, 105, 0, 1) 100%);
+        --wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg, rgba(255, 105, 0, 1) 0%, rgb(207, 46, 46) 100%);
+        --wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg, rgb(238, 238, 238) 0%, rgb(169, 184, 195) 100%);
+        --wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg, rgb(74, 234, 220) 0%, rgb(151, 120, 209) 20%, rgb(207, 42, 186) 40%, rgb(238, 44, 130) 60%, rgb(251, 105, 98) 80%, rgb(254, 248, 76) 100%);
+        --wp--preset--gradient--blush-light-purple: linear-gradient(135deg, rgb(255, 206, 236) 0%, rgb(152, 150, 240) 100%);
+        --wp--preset--gradient--blush-bordeaux: linear-gradient(135deg, rgb(254, 205, 165) 0%, rgb(254, 45, 45) 50%, rgb(107, 0, 62) 100%);
+        --wp--preset--gradient--luminous-dusk: linear-gradient(135deg, rgb(255, 203, 112) 0%, rgb(199, 81, 192) 50%, rgb(65, 88, 208) 100%);
+        --wp--preset--gradient--pale-ocean: linear-gradient(135deg, rgb(255, 245, 203) 0%, rgb(182, 227, 212) 50%, rgb(51, 167, 181) 100%);
+        --wp--preset--gradient--electric-grass: linear-gradient(135deg, rgb(202, 248, 128) 0%, rgb(113, 206, 126) 100%);
+        --wp--preset--gradient--midnight: linear-gradient(135deg, rgb(2, 3, 129) 0%, rgb(40, 116, 252) 100%);
+        --wp--preset--font-size--small: 13px;
+        --wp--preset--font-size--medium: 20px;
+        --wp--preset--font-size--large: 36px;
+        --wp--preset--font-size--x-large: 42px;
+        --wp--preset--spacing--20: 0.44rem;
+        --wp--preset--spacing--30: 0.67rem;
+        --wp--preset--spacing--40: 1rem;
+        --wp--preset--spacing--50: 1.5rem;
+        --wp--preset--spacing--60: 2.25rem;
+        --wp--preset--spacing--70: 3.38rem;
+        --wp--preset--spacing--80: 5.06rem;
+        --wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);
+        --wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);
+        --wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
+        --wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);
+        --wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);
+    }
+
+    :where(.is-layout-flex) {
+        gap: 0.5em;
+    }
+
+    :where(.is-layout-grid) {
+        gap: 0.5em;
+    }
+
+    body .is-layout-flex {
+        display: flex;
+    }
+
+    body .is-layout-flex {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    body .is-layout-flex>* {
+        margin: 0;
+    }
+
+    body .is-layout-grid {
+        display: grid;
+    }
+
+    body .is-layout-grid>* {
+        margin: 0;
+    }
+
+    :where(.wp-block-columns.is-layout-flex) {
+        gap: 2em;
+    }
+
+    :where(.wp-block-columns.is-layout-grid) {
+        gap: 2em;
+    }
+
+    :where(.wp-block-post-template.is-layout-flex) {
+        gap: 1.25em;
+    }
+
+    :where(.wp-block-post-template.is-layout-grid) {
+        gap: 1.25em;
+    }
+
+    .has-black-color {
+        color: var(--wp--preset--color--black) !important;
+    }
+
+    .has-cyan-bluish-gray-color {
+        color: var(--wp--preset--color--cyan-bluish-gray) !important;
+    }
+
+    .has-white-color {
+        color: var(--wp--preset--color--white) !important;
+    }
+
+    .has-pale-pink-color {
+        color: var(--wp--preset--color--pale-pink) !important;
+    }
+
+    .has-vivid-red-color {
+        color: var(--wp--preset--color--vivid-red) !important;
+    }
+
+    .has-luminous-vivid-orange-color {
+        color: var(--wp--preset--color--luminous-vivid-orange) !important;
+    }
+
+    .has-luminous-vivid-amber-color {
+        color: var(--wp--preset--color--luminous-vivid-amber) !important;
+    }
+
+    .has-light-green-cyan-color {
+        color: var(--wp--preset--color--light-green-cyan) !important;
+    }
+
+    .has-vivid-green-cyan-color {
+        color: var(--wp--preset--color--vivid-green-cyan) !important;
+    }
+
+    .has-pale-cyan-blue-color {
+        color: var(--wp--preset--color--pale-cyan-blue) !important;
+    }
+
+    .has-vivid-cyan-blue-color {
+        color: var(--wp--preset--color--vivid-cyan-blue) !important;
+    }
+
+    .has-vivid-purple-color {
+        color: var(--wp--preset--color--vivid-purple) !important;
+    }
+
+    .has-black-background-color {
+        background-color: var(--wp--preset--color--black) !important;
+    }
+
+    .has-cyan-bluish-gray-background-color {
+        background-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+    }
+
+    .has-white-background-color {
+        background-color: var(--wp--preset--color--white) !important;
+    }
+
+    .has-pale-pink-background-color {
+        background-color: var(--wp--preset--color--pale-pink) !important;
+    }
+
+    .has-vivid-red-background-color {
+        background-color: var(--wp--preset--color--vivid-red) !important;
+    }
+
+    .has-luminous-vivid-orange-background-color {
+        background-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+    }
+
+    .has-luminous-vivid-amber-background-color {
+        background-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+    }
+
+    .has-light-green-cyan-background-color {
+        background-color: var(--wp--preset--color--light-green-cyan) !important;
+    }
+
+    .has-vivid-green-cyan-background-color {
+        background-color: var(--wp--preset--color--vivid-green-cyan) !important;
+    }
+
+    .has-pale-cyan-blue-background-color {
+        background-color: var(--wp--preset--color--pale-cyan-blue) !important;
+    }
+
+    .has-vivid-cyan-blue-background-color {
+        background-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+    }
+
+    .has-vivid-purple-background-color {
+        background-color: var(--wp--preset--color--vivid-purple) !important;
+    }
+
+    .has-black-border-color {
+        border-color: var(--wp--preset--color--black) !important;
+    }
+
+    .has-cyan-bluish-gray-border-color {
+        border-color: var(--wp--preset--color--cyan-bluish-gray) !important;
+    }
+
+    .has-white-border-color {
+        border-color: var(--wp--preset--color--white) !important;
+    }
+
+    .has-pale-pink-border-color {
+        border-color: var(--wp--preset--color--pale-pink) !important;
+    }
+
+    .has-vivid-red-border-color {
+        border-color: var(--wp--preset--color--vivid-red) !important;
+    }
+
+    .has-luminous-vivid-orange-border-color {
+        border-color: var(--wp--preset--color--luminous-vivid-orange) !important;
+    }
+
+    .has-luminous-vivid-amber-border-color {
+        border-color: var(--wp--preset--color--luminous-vivid-amber) !important;
+    }
+
+    .has-light-green-cyan-border-color {
+        border-color: var(--wp--preset--color--light-green-cyan) !important;
+    }
+
+    .has-vivid-green-cyan-border-color {
+        border-color: var(--wp--preset--color--vivid-green-cyan) !important;
+    }
+
+    .has-pale-cyan-blue-border-color {
+        border-color: var(--wp--preset--color--pale-cyan-blue) !important;
+    }
+
+    .has-vivid-cyan-blue-border-color {
+        border-color: var(--wp--preset--color--vivid-cyan-blue) !important;
+    }
+
+    .has-vivid-purple-border-color {
+        border-color: var(--wp--preset--color--vivid-purple) !important;
+    }
+
+    .has-vivid-cyan-blue-to-vivid-purple-gradient-background {
+        background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;
+    }
+
+    .has-light-green-cyan-to-vivid-green-cyan-gradient-background {
+        background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;
+    }
+
+    .has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background {
+        background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;
+    }
+
+    .has-luminous-vivid-orange-to-vivid-red-gradient-background {
+        background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;
+    }
+
+    .has-very-light-gray-to-cyan-bluish-gray-gradient-background {
+        background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;
+    }
+
+    .has-cool-to-warm-spectrum-gradient-background {
+        background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;
+    }
+
+    .has-blush-light-purple-gradient-background {
+        background: var(--wp--preset--gradient--blush-light-purple) !important;
+    }
+
+    .has-blush-bordeaux-gradient-background {
+        background: var(--wp--preset--gradient--blush-bordeaux) !important;
+    }
+
+    .has-luminous-dusk-gradient-background {
+        background: var(--wp--preset--gradient--luminous-dusk) !important;
+    }
+
+    .has-pale-ocean-gradient-background {
+        background: var(--wp--preset--gradient--pale-ocean) !important;
+    }
+
+    .has-electric-grass-gradient-background {
+        background: var(--wp--preset--gradient--electric-grass) !important;
+    }
+
+    .has-midnight-gradient-background {
+        background: var(--wp--preset--gradient--midnight) !important;
+    }
+
+    .has-small-font-size {
+        font-size: var(--wp--preset--font-size--small) !important;
+    }
+
+    .has-medium-font-size {
+        font-size: var(--wp--preset--font-size--medium) !important;
+    }
+
+    .has-large-font-size {
+        font-size: var(--wp--preset--font-size--large) !important;
+    }
+
+    .has-x-large-font-size {
+        font-size: var(--wp--preset--font-size--x-large) !important;
+    }
+
+    .wp-block-navigation a:where(:not(.wp-element-button)) {
+        color: inherit;
+    }
+
+    :where(.wp-block-post-template.is-layout-flex) {
+        gap: 1.25em;
+    }
+
+    :where(.wp-block-post-template.is-layout-grid) {
+        gap: 1.25em;
+    }
+
+    :where(.wp-block-columns.is-layout-flex) {
+        gap: 2em;
+    }
+
+    :where(.wp-block-columns.is-layout-grid) {
+        gap: 2em;
+    }
+
+    .wp-block-pullquote {
+        font-size: 1.5em;
+        line-height: 1.6;
+    }
+    </style>
+    <link rel='stylesheet' id='simple-job-board-google-fonts-css'
+        href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%2C900%2C900i&#038;ver=2.13.2'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='sjb-fontawesome-css'
+        href='https://danubeproperties.com/wp-content/plugins/simple-job-board/includes/css/font-awesome.min.css?ver=5.15.4'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='simple-job-board-jquery-ui-css'
+        href='https://danubeproperties.com/wp-content/plugins/simple-job-board/public/css/jquery-ui.css?ver=1.12.1'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='simple-job-board-frontend-css'
+        href='https://danubeproperties.com/wp-content/plugins/simple-job-board/public/css/simple-job-board-public.css?ver=3.0.0'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='wpml-menu-item-0-css'
+        href='https://danubeproperties.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='eae-css-css'
+        href='https://danubeproperties.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/css/eae.min.css?ver=1.13.10'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='eae-peel-css-css'
+        href='https://danubeproperties.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/lib/peel/peel.css?ver=1.13.10'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='dce-style-css'
+        href='https://danubeproperties.com/wp-content/plugins/dynamic-content-for-elementor/assets/css/style.css?ver=2.12.8'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='dce-dynamic-visibility-css'
+        href='https://danubeproperties.com/wp-content/plugins/dynamic-content-for-elementor/assets/css/dynamic-visibility.css?ver=2.12.8'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='opal-custom-css-css'
+        href='https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/css/custom.css?ver=2.4.8'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='danube-bootstrap-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes-child/assets/css/bootstrap.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='danube-slick-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes-child/assets/css/slick.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='danube-slick-theme-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes-child/assets/css/slick-theme.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='danube-slick-lightbox-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes-child/assets/css/slick-lightbox.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='opal-boostrap-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes/assets/css/opal-boostrap.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='rehomes-style-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes/style.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+
+    <link rel='stylesheet' id='child-theme-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes-child/style.css?ver=1056881053' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='style-rtl-style-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes-child/style-rtl.css?ver=207232959' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='rehomes-opal-icon-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes/assets/css/opal-icons.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='rehomes-carousel-css'
+        href='https://danubeproperties.com/wp-content/themes/rehomes/assets/css/carousel.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='swiper-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='e-swiper-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-6-css'
+        href='https://danubeproperties.com/wp-content/uploads/elementor/css/post-6.css?ver=1733837461' type='text/css'
+        media='all' />
+    <link rel='stylesheet' id='dashicons-css'
+        href='https://danubeproperties.com/wp-includes/css/dashicons.min.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-pro-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.22.0'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-5-all-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.0'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='font-awesome-4-shim-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=1.0'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-heading-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-divider-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='elementor-post-16241-css'
+        href='https://danubeproperties.com/wp-content/uploads/elementor/css/post-16241.css?ver=1733840793'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='otf-fonts-css'
+        href='https://fonts.googleapis.com/css?family=Be+Vietnam%3A300%7CDM+Serif+Display%3A400%7CBe+Vietnam%3A700%7CBe+Vietnam%3A400&#038;subset=latin-ext%2Clatin-ext%2Clatin-ext%2Clatin-ext'
+        type='text/css' media='all' />
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown/script.min.js?ver=1"
+        id="wpml-legacy-dropdown-0-js"></script>
+    <script type="text/javascript" id="wpml-cookie-js-extra">
+    /* <![CDATA[ */
+    var wpml_cookies = {
+        "wp-wpml_current_language": {
+            "value": "en",
+            "expires": 1,
+            "path": "\/"
+        }
+    };
+    var wpml_cookies = {
+        "wp-wpml_current_language": {
+            "value": "en",
+            "expires": 1,
+            "path": "\/"
+        }
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=4.6.14"
+        id="wpml-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+    <script type="text/javascript" async
+        src="https://danubeproperties.com/wp-content/plugins/burst-statistics/helpers/timeme/timeme.min.js?ver=1.7.3"
+        id="burst-timeme-js"></script>
+    <script type="text/javascript" id="burst-js-extra">
+    /* <![CDATA[ */
+    var burst = {
+        "cookie_retention_days": "30",
+        "beacon_url": "https:\/\/danubeproperties.com\/wp-content\/plugins\/burst-statistics\/endpoint.php",
+        "options": {
+            "beacon_enabled": 1,
+            "enable_cookieless_tracking": 0,
+            "enable_turbo_mode": 0,
+            "do_not_track": 0,
+            "track_url_change": 0
+        },
+        "goals": [{
+            "ID": "1",
+            "title": "Default goal",
+            "type": "clicks",
+            "status": "active",
+            "server_side": "0",
+            "url": "*",
+            "conversion_metric": "visitors",
+            "date_created": "1715147808",
+            "date_start": "1715147808",
+            "date_end": "0",
+            "attribute": "class",
+            "attribute_value": "",
+            "hook": ""
+        }],
+        "goals_script_url": "https:\/\/danubeproperties.com\/wp-content\/plugins\/burst-statistics\/\/assets\/js\/build\/burst-goals.js?v=1.7.3"
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript" async
+        src="https://danubeproperties.com/wp-content/plugins/burst-statistics/assets/js/build/burst.min.js?ver=1.7.3"
+        id="burst-js"></script>
+    <script type="text/javascript" src="https://danubeproperties.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+        id="jquery-core-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js">
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/iconHelper.js?ver=1.0"
+        id="eae-iconHelper-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes-child/assets/js/jquery.js?ver=1"
+        id="danube-jquery-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/libs/owl.carousel.js?ver=2.2.1"
+        id="owl-carousel-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/libs/modernizr.custom.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="modernizr-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/carousel.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="otf-carousel-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/slick.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="slick-js"></script>
+    <link rel="https://api.w.org/" href="https://danubeproperties.com/wp-json/" />
+    <link rel="alternate" type="application/json" href="https://danubeproperties.com/wp-json/wp/v2/pages/16241" />
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://danubeproperties.com/xmlrpc.php?rsd" />
+    <link rel="alternate" type="application/json+oembed"
+        href="https://danubeproperties.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdanubeproperties.com%2Fvideo-gallery%2F" />
+    <link rel="alternate" type="text/xml+oembed"
+        href="https://danubeproperties.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdanubeproperties.com%2Fvideo-gallery%2F&#038;format=xml" />
+    <meta name="generator" content="WPML ver:4.6.14 stt:5,1;" />
+    <meta name="cdp-version" content="1.4.9" /><!-- Google Tag Manager -->
+    <script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T7D7R3R');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- multilingual Manager -->
+    <!--<script id='sc-script' src="https://cdn.smartcat-proxy.com/44905d2651b1495197e3d2b510fa9ae5/script-v1/__translator.js?hash=ede292d623138a4279fd1971a8e063e2"></script> -->
+    <script id='sc-script'
+        src="https://cdn.smartcat-proxy.com/44905d2651b1495197e3d2b510fa9ae5/script-v1/__translator.js?hash=4ffce16bb274363978c481fcda530b28">
+    </script>
+
+
+    <meta name="generator"
+        content="Elementor 3.25.11; features: e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading; settings: css_print_method-external, google_font-enabled, font_display-auto">
+    <style>
+    .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+    .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+        background-image: none !important;
+    }
+
+    @media screen and (max-height: 1024px) {
+
+        .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+        .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+            background-image: none !important;
+        }
+    }
+
+    @media screen and (max-height: 640px) {
+
+        .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+        .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+            background-image: none !important;
+        }
+    }
+    </style>
+    <style type="text/css" id="custom-background-css">
+    body.custom-background {
+        background-color: #ffffff;
+    }
+    </style>
+    <link rel="icon" href="image/1LOGOS.PNG" sizes="32x32" />
+    <link rel="icon" href="image/1LOGOS.PNG" sizes="192x192" />
+    <link rel="apple-touch-icon" href="image/1LOGOS.PNG" />
+    <meta name="msapplication-TileImage" content="image/1LOGOS.PNG" />
+    <style type="text/css" id="wp-custom-css">
+    body.rtl * {
+        letter-spacing: 0 !important
+    }
+    </style>
+</head>
+
+<body data-rsssl=1
+    class="page-template page-template-page-elementor page-template-page-elementor-php page page-id-16241 custom-background wp-custom-logo opal-style chrome platform-windows lang-en opal-layout-wide opal-page-title-right-left opal-footer-skin-light group-blog opal-has-menu-top rehomes-child elementor-default elementor-kit-6 elementor-page elementor-page-16241">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T7D7R3R" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="wptime-plugin-preloader"></div>
+    <div class="opal-wrapper">
+        <div id="page" class="site">
+            <header id="masthead" class="site-header">
+                <div class="site-header">
+                    <div data-elementor-type="wp-post" data-elementor-id="25524" class="elementor elementor-25524"
+                        data-elementor-post-type="header">
+                        <div data-dce-background-overlay-color="#000000E0"
+                            class="elementor-element elementor-element-57e67c7 e-con-full e-flex e-con e-parent"
+                            data-id="57e67c7" data-element_type="container" id="header-section"
+                            data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+                            <div class="elementor-element elementor-element-517e7d60 elementor-widget-mobile__width-initial english-logo elementor-widget elementor-widget-opal-site-logo elementor-widget-image"
+                                data-id="517e7d60" data-element_type="widget" data-widget_type="opal-site-logo.default">
+                                <div class="elementor-widget-container">
+                                    <div class="elementor-image">
+                                        <a href="https://danubeproperties.com">
+                                            <img width="100" height="20" src="image/1LOGOS.PNG"
+                                                class="attachment-full size-full wp-image-13568"
+                                                alt="Real Estate Company in Dubai" decoding="async"
+                                                srcset="image/1LOGOS.PNG 100w, https://danubeproperties.com/wp-content/uploads/2024/02/header-logo-300x16.png 300w"
+                                                sizes="(max-width: 100px) 100vw, 100px" /> </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-4ed38ff elementor-widget__width-initial elementor-widget-mobile__width-initial arabic-logo dce_masking-none elementor-widget elementor-widget-image"
+                                data-id="4ed38ff" data-element_type="widget" data-widget_type="image.default">
+                                <div class="elementor-widget-container">
+                                    <a href="https://danubeproperties.com">
+                                        <img fetchpriority="high" width="1090" height="120"
+                                            src="https://danubeproperties.com/wp-content/uploads/2024/07/DP_long_LOGO-Arabic-1536x282-1.png"
+                                            class="attachment-full size-full wp-image-29952" alt=""
+                                            srcset="https://danubeproperties.com/wp-content/uploads/2024/07/DP_long_LOGO-Arabic-1536x282-1.png 1090w, https://danubeproperties.com/wp-content/uploads/2024/07/DP_long_LOGO-Arabic-1536x282-1-300x33.png 300w, https://danubeproperties.com/wp-content/uploads/2024/07/DP_long_LOGO-Arabic-1536x282-1-1024x113.png 1024w, https://danubeproperties.com/wp-content/uploads/2024/07/DP_long_LOGO-Arabic-1536x282-1-768x85.png 768w, https://danubeproperties.com/wp-content/uploads/2024/07/DP_long_LOGO-Arabic-1536x282-1-700x77.png 700w"
+                                            sizes="(max-width: 1090px) 100vw, 1090px" /> </a>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-63544e08 elementor-nav-menu--stretch elementor-widget-mobile__width-initial main-header-menu elementor-hidden-desktop elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
+                                data-id="63544e08" data-element_type="widget"
+                                data-settings="{&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;svg class=\&quot;e-font-icon-svg e-fas-angle-down\&quot; viewBox=\&quot;0 0 320 512\&quot; xmlns=\&quot;http:\/\/www.w3.org\/2000\/svg\&quot;&gt;&lt;path d=\&quot;M143 352.3L7 216.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 96.4-96.4c9.4-9.4 24.6-9.4 33.9 0l22.6 22.6c9.4 9.4 9.4 24.6 0 33.9l-136 136c-9.2 9.4-24.4 9.4-33.8 0z\&quot;&gt;&lt;\/path&gt;&lt;\/svg&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                data-widget_type="nav-menu.default">
+                                <div class="elementor-widget-container">
+                                    <nav
+                                        class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+                                        <ul id="menu-1-63544e08" class="elementor-nav-menu">
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13508">
+                                                <a href="#" class="elementor-item elementor-item-anchor">Projects</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17136">
+                                                        <a href="#"
+                                                            class="elementor-sub-item elementor-item-anchor">Latest
+                                                            Launches</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29103">
+                                                                <a href="https://danubeproperties.com/portfolio/bayz102/"
+                                                                    class="elementor-sub-item">Bayz 102</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29104">
+                                                                <a href="https://danubeproperties.com/portfolio/oasiz/"
+                                                                    class="elementor-sub-item">Oasiz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29836">
+                                                                <a href="https://danubeproperties.com/portfolio/oasiz2/"
+                                                                    class="elementor-sub-item">Oasiz 2</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13513">
+                                                        <a href="#"
+                                                            class="elementor-sub-item elementor-item-anchor">Ongoing
+                                                            Projects</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20196">
+                                                                <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                    class="elementor-sub-item">DIAMONDZ</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-14970">
+                                                                <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                    class="elementor-sub-item">BAYZ101</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15495">
+                                                                <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                    class="elementor-sub-item">SPORTZ</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15498">
+                                                                <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                    class="elementor-sub-item">OCEANZ</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16119">
+                                                                <a href="https://danubeproperties.com/portfolio/elitz-3/"
+                                                                    class="elementor-sub-item">ELITZ 3</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16972">
+                                                                <a href="https://danubeproperties.com/portfolio/elitz-2/"
+                                                                    class="elementor-sub-item">Elitz 2</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15496">
+                                                                <a href="https://danubeproperties.com/portfolio/fashionz/"
+                                                                    class="elementor-sub-item">FASHIONZ</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16957">
+                                                                <a href="https://danubeproperties.com/portfolio/viewz/"
+                                                                    class="elementor-sub-item">Viewz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16971">
+                                                                <a href="https://danubeproperties.com/portfolio/elitz/"
+                                                                    class="elementor-sub-item">Elitz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16961">
+                                                                <a href="https://danubeproperties.com/portfolio/petalz/"
+                                                                    class="elementor-sub-item">Petalz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16963">
+                                                                <a href="https://danubeproperties.com/portfolio/opalz/"
+                                                                    class="elementor-sub-item">Opalz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16974">
+                                                                <a href="https://danubeproperties.com/portfolio/gemz/"
+                                                                    class="elementor-sub-item">Gemz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16959">
+                                                                <a href="https://danubeproperties.com/portfolio/skyz/"
+                                                                    class="elementor-sub-item">Skyz</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13557">
+                                                        <a href="#"
+                                                            class="elementor-sub-item elementor-item-anchor">Completed
+                                                            Projects</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16962">
+                                                                <a href="https://danubeproperties.com/portfolio/pearlz/"
+                                                                    class="elementor-sub-item">Pearlz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16967">
+                                                                <a href="https://danubeproperties.com/portfolio/jewelz/"
+                                                                    class="elementor-sub-item">Jewelz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16956">
+                                                                <a href="https://danubeproperties.com/portfolio/wavez/"
+                                                                    class="elementor-sub-item">Wavez</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15497">
+                                                                <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                    class="elementor-sub-item">Eleganz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16964">
+                                                                <a href="https://danubeproperties.com/portfolio/olivz/"
+                                                                    class="elementor-sub-item">Olivz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16973">
+                                                                <a href="https://danubeproperties.com/portfolio/elz/"
+                                                                    class="elementor-sub-item">Elz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16966">
+                                                                <a href="https://danubeproperties.com/portfolio/lawnz/"
+                                                                    class="elementor-sub-item">Lawnz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18766">
+                                                                <a href="https://danubeproperties.com/portfolio/bayz/"
+                                                                    class="elementor-sub-item">Bayz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16965">
+                                                                <a href="https://danubeproperties.com/portfolio/miraclz/"
+                                                                    class="elementor-sub-item">Miraclz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16960">
+                                                                <a href="https://danubeproperties.com/portfolio/resortz/"
+                                                                    class="elementor-sub-item">Resortz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16975">
+                                                                <a href="https://danubeproperties.com/portfolio/glamz/"
+                                                                    class="elementor-sub-item">Glamz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16958">
+                                                                <a href="https://danubeproperties.com/portfolio/starz/"
+                                                                    class="elementor-sub-item">Starz</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16968">
+                                                                <a href="https://danubeproperties.com/portfolio/glitz-3/"
+                                                                    class="elementor-sub-item">Glitz 3</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16969">
+                                                                <a href="https://danubeproperties.com/portfolio/glitz-2/"
+                                                                    class="elementor-sub-item">Glitz 2</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16970">
+                                                                <a href="https://danubeproperties.com/portfolio/glitz-1/"
+                                                                    class="elementor-sub-item">Glitz 1</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16120">
+                                                                <a href="https://danubeproperties.com/portfolio/dreamz/"
+                                                                    class="elementor-sub-item">Dreamz</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13539">
+                                                <a href="#" class="elementor-item elementor-item-anchor">Danube
+                                                    Assist</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17359">
+                                                        <a href="https://danubeproperties.com/1-payment-plan/"
+                                                            class="elementor-sub-item">1% Payment Plan</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65801">
+                                                        <a href="https://maps.danubeproperties.com/"
+                                                            class="elementor-sub-item">Danube Map</a></li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13543">
+                                                        <a href="#"
+                                                            class="elementor-sub-item elementor-item-anchor">broker
+                                                            portal</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="register-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13544">
+                                                                <a target="_blank" rel="noopener"
+                                                                    href="https://danubeproperties.my.site.com/BrokerAgencyRegistration/s/"
+                                                                    class="elementor-sub-item">Register</a></li>
+                                                            <li
+                                                                class="sign-in-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13545">
+                                                                <a target="_blank" rel="noopener"
+                                                                    href="https://danubeproperties.my.salesforce.com/?locale=eu"
+                                                                    class="elementor-sub-item">Login</a></li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19448">
+                                                <a href="https://danubeproperties.com/about-us/"
+                                                    class="elementor-item">About us</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19449">
+                                                        <a href="https://danubeproperties.com/about-us/"
+                                                            class="elementor-sub-item">Company Profile</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16070">
+                                                        <a href="https://danubeproperties.com/about-us/leadership-team/"
+                                                            class="elementor-sub-item">Leadership team</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16071">
+                                                        <a href="https://danubeproperties.com/about-us/management-team/"
+                                                            class="elementor-sub-item">Management team</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16072">
+                                                        <a href="https://danubeproperties.com/about-us/our-journey/"
+                                                            class="elementor-sub-item">Our journey</a></li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17474">
+                                                <a href="#" class="elementor-item elementor-item-anchor">Media</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16260">
+                                                        <a href="https://danubeproperties.com/news/"
+                                                            class="elementor-sub-item">News</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16241 current_page_item menu-item-16259">
+                                                        <a href="image/1LOGOS.PNG" aria-current="page"
+                                                            class="elementor-sub-item elementor-item-active">Video</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20029">
+                                                        <a href=""
+                                                            class="elementor-sub-item">3D TOURS</a></li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-10-en">
+                                                <a title="EN" href="image/1LOGOS.PNG" class="elementor-item"><span
+                                                        class="wpml-ls-native" lang="en">EN</span></a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-10-ar">
+                                                        <a title="العربية"
+                                                            href=""
+                                                            class="elementor-sub-item"><span class="wpml-ls-native"
+                                                                lang="ar">العربية</span></a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                    <div class="elementor-menu-toggle" role="button" tabindex="0"
+                                        aria-label="Menu Toggle" aria-expanded="false">
+                                        <svg aria-hidden="true" role="presentation"
+                                            class="elementor-menu-toggle__icon--open e-font-icon-svg e-eicon-menu-bar"
+                                            viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M104 333H896C929 333 958 304 958 271S929 208 896 208H104C71 208 42 237 42 271S71 333 104 333ZM104 583H896C929 583 958 554 958 521S929 458 896 458H104C71 458 42 487 42 521S71 583 104 583ZM104 833H896C929 833 958 804 958 771S929 708 896 708H104C71 708 42 737 42 771S71 833 104 833Z">
+                                            </path>
+                                        </svg><svg aria-hidden="true" role="presentation"
+                                            class="elementor-menu-toggle__icon--close e-font-icon-svg e-eicon-close"
+                                            viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M742 167L500 408 258 167C246 154 233 150 217 150 196 150 179 158 167 167 154 179 150 196 150 212 150 229 154 242 171 254L408 500 167 742C138 771 138 800 167 829 196 858 225 858 254 829L496 587 738 829C750 842 767 846 783 846 800 846 817 842 829 829 842 817 846 804 846 783 846 767 842 750 829 737L588 500 833 258C863 229 863 200 833 171 804 137 775 137 742 167Z">
+                                            </path>
+                                        </svg> <span class="elementor-screen-only">Menu</span>
+                                    </div>
+                                    <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"
+                                        aria-hidden="true">
+                                        <ul id="menu-2-63544e08" class="elementor-nav-menu">
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13508">
+                                                <a href="#" class="elementor-item elementor-item-anchor"
+                                                    tabindex="-1">Projects</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17136">
+                                                        <a href="#" class="elementor-sub-item elementor-item-anchor"
+                                                            tabindex="-1">Latest Launches</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29103">
+                                                                <a href="https://danubeproperties.com/portfolio/bayz102/"
+                                                                    class="elementor-sub-item" tabindex="-1">Bayz
+                                                                    102</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29104">
+                                                                <a href="https://danubeproperties.com/portfolio/oasiz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Oasiz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29836">
+                                                                <a href="https://danubeproperties.com/portfolio/oasiz2/"
+                                                                    class="elementor-sub-item" tabindex="-1">Oasiz 2</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13513">
+                                                        <a href="#" class="elementor-sub-item elementor-item-anchor"
+                                                            tabindex="-1">Ongoing Projects</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20196">
+                                                                <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                    class="elementor-sub-item"
+                                                                    tabindex="-1">DIAMONDZ</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-14970">
+                                                                <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                    class="elementor-sub-item" tabindex="-1">BAYZ101</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15495">
+                                                                <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                    class="elementor-sub-item" tabindex="-1">SPORTZ</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15498">
+                                                                <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                    class="elementor-sub-item" tabindex="-1">OCEANZ</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16119">
+                                                                <a href="https://danubeproperties.com/portfolio/elitz-3/"
+                                                                    class="elementor-sub-item" tabindex="-1">ELITZ 3</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16972">
+                                                                <a href="https://danubeproperties.com/portfolio/elitz-2/"
+                                                                    class="elementor-sub-item" tabindex="-1">Elitz 2</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15496">
+                                                                <a href="https://danubeproperties.com/portfolio/fashionz/"
+                                                                    class="elementor-sub-item"
+                                                                    tabindex="-1">FASHIONZ</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16957">
+                                                                <a href="https://danubeproperties.com/portfolio/viewz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Viewz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16971">
+                                                                <a href="https://danubeproperties.com/portfolio/elitz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Elitz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16961">
+                                                                <a href="https://danubeproperties.com/portfolio/petalz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Petalz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16963">
+                                                                <a href="https://danubeproperties.com/portfolio/opalz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Opalz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16974">
+                                                                <a href="https://danubeproperties.com/portfolio/gemz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Gemz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16959">
+                                                                <a href="https://danubeproperties.com/portfolio/skyz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Skyz</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13557">
+                                                        <a href="#" class="elementor-sub-item elementor-item-anchor"
+                                                            tabindex="-1">Completed Projects</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16962">
+                                                                <a href="https://danubeproperties.com/portfolio/pearlz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Pearlz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16967">
+                                                                <a href="https://danubeproperties.com/portfolio/jewelz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Jewelz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16956">
+                                                                <a href="https://danubeproperties.com/portfolio/wavez/"
+                                                                    class="elementor-sub-item" tabindex="-1">Wavez</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15497">
+                                                                <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Eleganz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16964">
+                                                                <a href="https://danubeproperties.com/portfolio/olivz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Olivz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16973">
+                                                                <a href="https://danubeproperties.com/portfolio/elz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Elz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16966">
+                                                                <a href="https://danubeproperties.com/portfolio/lawnz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Lawnz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18766">
+                                                                <a href="https://danubeproperties.com/portfolio/bayz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Bayz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16965">
+                                                                <a href="https://danubeproperties.com/portfolio/miraclz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Miraclz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16960">
+                                                                <a href="https://danubeproperties.com/portfolio/resortz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Resortz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16975">
+                                                                <a href="https://danubeproperties.com/portfolio/glamz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Glamz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16958">
+                                                                <a href="https://danubeproperties.com/portfolio/starz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Starz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16968">
+                                                                <a href="https://danubeproperties.com/portfolio/glitz-3/"
+                                                                    class="elementor-sub-item" tabindex="-1">Glitz 3</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16969">
+                                                                <a href="https://danubeproperties.com/portfolio/glitz-2/"
+                                                                    class="elementor-sub-item" tabindex="-1">Glitz 2</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16970">
+                                                                <a href="https://danubeproperties.com/portfolio/glitz-1/"
+                                                                    class="elementor-sub-item" tabindex="-1">Glitz 1</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16120">
+                                                                <a href="https://danubeproperties.com/portfolio/dreamz/"
+                                                                    class="elementor-sub-item" tabindex="-1">Dreamz</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13539">
+                                                <a href="#" class="elementor-item elementor-item-anchor"
+                                                    tabindex="-1">Danube Assist</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17359">
+                                                        <a href="https://danubeproperties.com/1-payment-plan/"
+                                                            class="elementor-sub-item" tabindex="-1">1% Payment Plan</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65801">
+                                                        <a href="https://maps.danubeproperties.com/"
+                                                            class="elementor-sub-item" tabindex="-1">Danube Map</a></li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13543">
+                                                        <a href="#" class="elementor-sub-item elementor-item-anchor"
+                                                            tabindex="-1">broker portal</a>
+                                                        <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                            <li
+                                                                class="register-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13544">
+                                                                <a target="_blank" rel="noopener"
+                                                                    href="https://danubeproperties.my.site.com/BrokerAgencyRegistration/s/"
+                                                                    class="elementor-sub-item"
+                                                                    tabindex="-1">Register</a></li>
+                                                            <li
+                                                                class="sign-in-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13545">
+                                                                <a target="_blank" rel="noopener"
+                                                                    href="https://danubeproperties.my.salesforce.com/?locale=eu"
+                                                                    class="elementor-sub-item" tabindex="-1">Login</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19448">
+                                                <a href="https://danubeproperties.com/about-us/" class="elementor-item"
+                                                    tabindex="-1">About us</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19449">
+                                                        <a href="https://danubeproperties.com/about-us/"
+                                                            class="elementor-sub-item" tabindex="-1">Company Profile</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16070">
+                                                        <a href="https://danubeproperties.com/about-us/leadership-team/"
+                                                            class="elementor-sub-item" tabindex="-1">Leadership team</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16071">
+                                                        <a href="https://danubeproperties.com/about-us/management-team/"
+                                                            class="elementor-sub-item" tabindex="-1">Management team</a>
+                                                    </li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16072">
+                                                        <a href="https://danubeproperties.com/about-us/our-journey/"
+                                                            class="elementor-sub-item" tabindex="-1">Our journey</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17474">
+                                                <a href="#" class="elementor-item elementor-item-anchor"
+                                                    tabindex="-1">Media</a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16260">
+                                                        <a href="https://danubeproperties.com/news/"
+                                                            class="elementor-sub-item" tabindex="-1">News</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16241 current_page_item menu-item-16259">
+                                                        <a href="image/1LOGOS.PNG" aria-current="page"
+                                                            class="elementor-sub-item elementor-item-active"
+                                                            tabindex="-1">Video</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20029">
+                                                        <a href=""
+                                                            class="elementor-sub-item" tabindex="-1">3D TOURS</a></li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-10-en">
+                                                <a title="EN" href="image/1LOGOS.PNG" class="elementor-item"
+                                                    tabindex="-1"><span class="wpml-ls-native" lang="en">EN</span></a>
+                                                <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                    <li
+                                                        class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-10-ar">
+                                                        <a title="العربية"
+                                                            href=""
+                                                            class="elementor-sub-item" tabindex="-1"><span
+                                                                class="wpml-ls-native" lang="ar">العربية</span></a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-363b5f30 main-header-menu1 elementor-hidden-mobile elementor-hidden-tablet elementor-widget elementor-widget-wp-widget-nav_menu"
+                                data-id="363b5f30" data-element_type="widget"
+                                data-widget_type="wp-widget-nav_menu.default">
+                                <div class="elementor-widget-container">
+                                    <div class="menu-main-menu-container">
+                                        <ul id="menu-main-menu" class="menu">
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13508">
+                                                <a href="#">Projects</a>
+                                                <ul class="sub-menu">
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17136">
+                                                        <a href="#">Latest Launches</a>
+                                                        <ul class="sub-menu">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29103">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/bayz102/">Bayz
+                                                                    102</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29104">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/oasiz/">Oasiz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29836">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/oasiz2/">Oasiz
+                                                                    2</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13513">
+                                                        <a href="#">Ongoing Projects</a>
+                                                        <ul class="sub-menu">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20196">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/diamondz/">DIAMONDZ</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-14970">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/bayz101/">BAYZ101</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15495">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/sportz/">SPORTZ</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15498">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/oceanz/">OCEANZ</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16119">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/elitz-3/">ELITZ
+                                                                    3</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16972">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/elitz-2/">Elitz
+                                                                    2</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15496">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/fashionz/">FASHIONZ</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16957">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/viewz/">Viewz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16971">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/elitz/">Elitz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16961">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/petalz/">Petalz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16963">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/opalz/">Opalz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16974">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/gemz/">Gemz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16959">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/skyz/">Skyz</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13557">
+                                                        <a href="#">Completed Projects</a>
+                                                        <ul class="sub-menu">
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16962">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/pearlz/">Pearlz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16967">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/jewelz/">Jewelz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16956">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/wavez/">Wavez</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15497">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/eleganz/">Eleganz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16964">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/olivz/">Olivz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16973">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/elz/">Elz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16966">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/lawnz/">Lawnz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18766">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/bayz/">Bayz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16965">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/miraclz/">Miraclz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16960">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/resortz/">Resortz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16975">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/glamz/">Glamz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16958">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/starz/">Starz</a>
+                                                            </li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16968">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/glitz-3/">Glitz
+                                                                    3</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16969">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/glitz-2/">Glitz
+                                                                    2</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16970">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/glitz-1/">Glitz
+                                                                    1</a></li>
+                                                            <li
+                                                                class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16120">
+                                                                <a
+                                                                    href="https://danubeproperties.com/portfolio/dreamz/">Dreamz</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13539">
+                                                <a href="#">Danube Assist</a>
+                                                <ul class="sub-menu">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17359">
+                                                        <a href="https://danubeproperties.com/1-payment-plan/">1%
+                                                            Payment Plan</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65801">
+                                                        <a href="https://maps.danubeproperties.com/">Danube Map</a></li>
+                                                    <li
+                                                        class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13543">
+                                                        <a href="#">broker portal</a>
+                                                        <ul class="sub-menu">
+                                                            <li
+                                                                class="register-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13544">
+                                                                <a target="_blank" rel="noopener"
+                                                                    href="https://danubeproperties.my.site.com/BrokerAgencyRegistration/s/">Register</a>
+                                                            </li>
+                                                            <li
+                                                                class="sign-in-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13545">
+                                                                <a target="_blank" rel="noopener"
+                                                                    href="https://danubeproperties.my.salesforce.com/?locale=eu">Login</a>
+                                                            </li>
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19448">
+                                                <a href="https://danubeproperties.com/about-us/">About us</a>
+                                                <ul class="sub-menu">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19449">
+                                                        <a href="https://danubeproperties.com/about-us/">Company
+                                                            Profile</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16070">
+                                                        <a
+                                                            href="https://danubeproperties.com/about-us/leadership-team/">Leadership
+                                                            team</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16071">
+                                                        <a
+                                                            href="https://danubeproperties.com/about-us/management-team/">Management
+                                                            team</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16072">
+                                                        <a href="https://danubeproperties.com/about-us/our-journey/">Our
+                                                            journey</a></li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17474">
+                                                <a href="#">Media</a>
+                                                <ul class="sub-menu">
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16260">
+                                                        <a href="https://danubeproperties.com/news/">News</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16241 current_page_item menu-item-16259">
+                                                        <a href="image/1LOGOS.PNG" aria-current="page">Video</a></li>
+                                                    <li
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20029">
+                                                        <a href="">3D TOURS</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li
+                                                class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-10-en">
+                                                <a title="EN" href="image/1LOGOS.PNG"><span class="wpml-ls-native"
+                                                        lang="en">EN</span></a>
+                                                <ul class="sub-menu">
+                                                    <li
+                                                        class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-10-ar">
+                                                        <a title="العربية"
+                                                            href=""><span
+                                                                class="wpml-ls-native" lang="ar">العربية</span></a></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-3fda273 elementor-icon-list--layout-inline elementor-widget__width-auto elementor-align-right elementor-widget-mobile__width-initial elementor-hidden-desktop elementor-mobile-align-right icon-list-style1 elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
+                                data-id="3fda273" data-element_type="widget" id="header-section"
+                                data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items elementor-inline-items">
+                                        <li class="elementor-icon-list-item elementor-inline-item">
+                                            <a href="tel:8005757">
+
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+                                                        viewBox="0 0 14 14" fill="none">
+                                                        <path
+                                                            d="M13.4157 9.64495L12.1656 8.39486C11.7929 8.02521 11.29 7.81681 10.7651 7.81458C10.2402 7.81234 9.73547 8.01646 9.3597 8.38293C9.1592 8.58458 8.89468 8.71005 8.61166 8.73774C8.32864 8.76543 8.04482 8.69361 7.80903 8.53465C6.8784 7.91356 6.07892 7.11562 5.45603 6.18619C5.29986 5.94777 5.23065 5.66282 5.26004 5.37933C5.28943 5.09584 5.41564 4.83114 5.61741 4.62984C5.98055 4.25371 6.18204 3.75038 6.17875 3.22757C6.17546 2.70476 5.96765 2.20401 5.59979 1.83249L4.34971 0.582403C3.97545 0.209428 3.46861 0 2.94024 0C2.41186 0 1.90503 0.209428 1.53077 0.582403L1.17108 0.942655C-0.704045 2.81778 -0.563694 6.76009 3.33771 10.6592C5.69014 13.0122 8.05791 13.9975 9.97793 13.9975C10.5431 14.0163 11.1064 13.9225 11.635 13.7214C12.1635 13.5204 12.6468 13.2161 13.0565 12.8264L13.4168 12.4662C13.7905 12.0917 14.0002 11.5843 14 11.0553C13.9998 10.5263 13.7896 10.0191 13.4157 9.64495ZM12.6122 11.6627L12.2519 12.0229C10.7746 13.5003 7.51356 13.2304 4.14003 9.85633C0.76651 6.48223 0.496037 3.21895 1.97341 1.74157L2.33082 1.38189C2.49174 1.22155 2.70966 1.13152 2.93683 1.13152C3.164 1.13152 3.38191 1.22155 3.54283 1.38189L4.79292 2.63197C4.95092 2.79077 5.0406 3.00502 5.04283 3.22902C5.04506 3.45301 4.95966 3.66901 4.80485 3.83092C4.42089 4.21733 4.18138 4.72394 4.12645 5.2659C4.07152 5.80786 4.20451 6.35223 4.50313 6.80782C5.21087 7.86693 6.12099 8.7757 7.18115 9.48187C7.63537 9.78053 8.17832 9.9143 8.7193 9.86083C9.26028 9.80737 9.76654 9.5699 10.1535 9.1881C10.3151 9.03146 10.5317 8.94448 10.7568 8.94586C10.9818 8.94724 11.1973 9.03687 11.357 9.19549L12.6071 10.4456C12.6877 10.525 12.7517 10.6195 12.7956 10.7238C12.8395 10.828 12.8623 10.94 12.8628 11.0531C12.8633 11.1662 12.8414 11.2783 12.7984 11.3829C12.7554 11.4875 12.6921 11.5826 12.6122 11.6627Z"
+                                                            fill="white"></path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text"></span>
+                                            </a>
+                                        </li>
+                                        <li class="elementor-icon-list-item elementor-inline-item">
+                                            <a href="https://api.whatsapp.com/send?phone=9718005757&#038;text=Hi,%20I%20want%20to%20connect%20with%20Danube%20Properties,%20%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%20%D8%8C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D8%AF%D8%A7%D9%86%D9%88%D8%A8%20%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9%20"
+                                                target="_blank">
+
+                                                <span class="elementor-icon-list-icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="15"
+                                                        viewBox="0 0 14 15" fill="none">
+                                                        <path
+                                                            d="M10.2019 8.41949C10.062 8.34958 9.15318 7.9301 9.01336 7.86019C8.87353 7.79028 8.73371 7.79028 8.59388 7.9301C8.45405 8.06993 8.1744 8.4894 8.03458 8.62923C7.96467 8.76906 7.82484 8.76906 7.68502 8.69914C7.19563 8.4894 6.70624 8.20975 6.28676 7.86019C5.9372 7.51063 5.58764 7.09115 5.30799 6.67168C5.23808 6.53185 5.30799 6.39203 5.3779 6.32211C5.44781 6.2522 5.51773 6.11238 5.65755 6.04246C5.72746 5.97255 5.79738 5.83273 5.79738 5.76281C5.86729 5.6929 5.86729 5.55308 5.79738 5.48316C5.72746 5.41325 5.3779 4.5743 5.23807 4.22474C5.16816 3.73535 5.02834 3.73535 4.88851 3.73535H4.53895C4.39912 3.73535 4.18939 3.87517 4.11947 3.94509C3.7 4.36456 3.49026 4.85395 3.49026 5.41325C3.56017 6.04246 3.76991 6.67168 4.18939 7.23098C4.95842 8.34958 5.9372 9.25844 7.12572 9.81774C7.47528 9.95757 7.75493 10.0974 8.10449 10.1673C8.45405 10.3071 8.80362 10.3071 9.22309 10.2372C9.71248 10.1673 10.132 9.81774 10.4116 9.39827C10.5514 9.11862 10.5514 8.83897 10.4815 8.55932L10.2019 8.41949ZM11.9497 2.05744C9.22309 -0.669147 4.8186 -0.669147 2.09201 2.05744C-0.145196 4.29465 -0.564672 7.72037 0.973406 10.447L-0.00537109 14.0125L3.7 13.0337C4.74869 13.593 5.86729 13.8727 6.98589 13.8727C10.8311 13.8727 13.9072 10.7965 13.9072 6.95133C13.9772 5.1336 13.2081 3.38578 11.9497 2.05744ZM10.062 11.8452C9.15318 12.4045 8.10449 12.7541 6.98589 12.7541C5.9372 12.7541 4.95842 12.4744 4.04956 11.985L3.83982 11.8452L1.67253 12.4045L2.23183 10.3071L2.09201 10.0974C0.414105 7.30089 1.25306 3.80526 3.97965 2.05744C6.70624 0.309629 10.2019 1.21849 11.8798 3.87517C13.5577 6.60176 12.7886 10.1673 10.062 11.8452Z"
+                                                            fill="white"></path>
+                                                    </svg> </span>
+                                                <span class="elementor-icon-list-text"></span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-b2885d2 rightside-menu elementor-hidden-tablet elementor-hidden-mobile elementor-nav-menu--indicator-angle elementor-widget elementor-widget-opal-nav-menu"
+                                data-id="b2885d2" data-element_type="widget"
+                                data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}"
+                                data-widget_type="opal-nav-menu.default">
+                                <div class="elementor-widget-container">
+                                    <nav data-subMenusMinWidth="50" data-subMenusMaxWidth="500"
+                                        class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+                                        <ul id="menu-contact-us-and-whatsup" class="elementor-nav-menu">
+                                            <li
+                                                class="contactus menu-item menu-item-type-custom menu-item-object-custom menu-item-26705">
+                                                <a href="contact.php" class="elementor-item"><i
+                                                        class="menu-icon fa fa-phone" style="color:#ffffff"></i><span
+                                                        class="menu-title">Contact Us</span></a></li>
+                                            <li
+                                                class="whatsapp whatsapp-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-26706">
+                                                <a target="_blank"
+                                                    href="https://api.whatsapp.com/send?phone=9718005757&#038;text=Hi,%20I%20want%20to%20connect%20with%20Danube%20Properties,%20%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%20%D8%8C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D8%AF%D8%A7%D9%86%D9%88%D8%A8%20%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9%20"
+                                                    class="elementor-item"><i class="menu-icon fa fa-whatsapp"
+                                                        style="color:#59ce72"></i><span
+                                                        class="menu-title">Whatsapp</span></a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-dd363a5 elementor-hidden-tablet elementor-hidden-mobile wpml-language-switcher elementor-widget elementor-widget-wpml-language-switcher"
+                                data-id="dd363a5" data-element_type="widget"
+                                data-widget_type="wpml-language-switcher.default">
+                                <div class="elementor-widget-container">
+                                    <div class="wpml-elementor-ls">
+                                        <div
+                                            class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-dropdown js-wpml-ls-legacy-dropdown">
+                                            <ul>
+
+                                                <li tabindex="0"
+                                                    class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-dropdown">
+                                                    <a href="#" class="js-wpml-ls-item-toggle wpml-ls-item-toggle">
+                                                        <span class="wpml-ls-native">EN</span></a>
+
+                                                    <ul class="wpml-ls-sub-menu">
+
+                                                        <li
+                                                            class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-ar wpml-ls-last-item">
+                                                            <a href=""
+                                                                class="wpml-ls-link">
+                                                                <span class="wpml-ls-native"
+                                                                    lang="ar">العربية</span></a>
+                                                        </li>
+
+                                                    </ul>
+
+                                                </li>
+
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div class="container">
+                <div id="page-title-bar" class="page-title-bar ">
+
+                    <!-- <div class=""> -->
+                    <div class=" w-100 d-flex align-items-center">
+                        <div class="page-title-bar-inner d-flex flex-column align-items-center w-100">
+                            <!-- Add any additional content here if needed -->
+                        </div>
+                    </div>
+                    <!-- </div> -->
+
+                </div>
+            </div>
+            <div class="site-content-contain">
+                <div id="content" class="site-content">
+                    <div class="wrap">
+                        <div id="primary" class="content-area">
+                            <main id="main" class="site-main">
+                                <div data-elementor-type="wp-page" data-elementor-id="16241"
+                                    class="elementor elementor-16241" data-elementor-post-type="page">
+                                    <div class="elementor-element elementor-element-abde402 e-flex e-con-boxed e-con e-parent"
+                                        data-id="abde402" data-element_type="container">
+                                        <div class="e-con-inner">
+                                            <div class="elementor-element elementor-element-d735817 elementor-widget elementor-widget-heading"
+                                                data-id="d735817" data-element_type="widget"
+                                                data-widget_type="heading.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="elementor-heading-wrapper">
+                                                        <div class="elementor-heading-wrapper-inner">
+                                                            <h1 class="elementor-heading-title elementor-size-default">
+                                                                Video Gallery </h1>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-362f0ab elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                                data-id="362f0ab" data-element_type="widget"
+                                                data-widget_type="divider.default">
+                                                <div class="elementor-widget-container">
+                                                    <div class="elementor-divider">
+                                                        <span class="elementor-divider-separator">
+                                                        </span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="elementor-element elementor-element-0c759c3 e-flex e-con-boxed e-con e-parent"
+                                        data-id="0c759c3" data-element_type="container">
+                                        <div class="e-con-inner">
+                                            <div class="elementor-element elementor-element-c20cedb e-con-full e-flex e-con e-child"
+                                                >
+                                                <div background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/d1.jpg"
+                                                    class="elementor-element elementor-element-f062f48 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="f062f48" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=j9D0RBek2wc"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/spo.jpg"
+                                                    class="elementor-element elementor-element-cc912de elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="cc912de" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=NzQ0rsSvtXk"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/ocea.jpg"
+                                                    class="elementor-element elementor-element-51a6392 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="51a6392" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=YtFPdCZSUuw"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/elitz2.jpg"
+                                                    class="elementor-element elementor-element-6b36ede elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="6b36ede" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=ebXMmnBW7jE"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/elitz.jpg"
+                                                    class="elementor-element elementor-element-e6a682d elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="e6a682d" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=0ALt5GuMcI4"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/gemz1.jpg"
+                                                    class="elementor-element elementor-element-0a9a0e5 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="0a9a0e5" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=hdslCgPUjoQ"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="elementor-element elementor-element-fc52170 e-con-full e-flex e-con e-child"
+                                                data-id="fc52170" data-element_type="container">
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/bay.jpg"
+                                                    class="elementor-element elementor-element-5b330a2 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="5b330a2" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=_LSbAwRULfg"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/eleg.jpg"
+                                                    class="elementor-element elementor-element-bffeb23 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="bffeb23" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=55cNl46aK30"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/elitz3.jpg"
+                                                    class="elementor-element elementor-element-fca34ed elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="fca34ed" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=PJdY9zsm9Mk"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/fashionz.jpg"
+                                                    class="elementor-element elementor-element-7f8fad0 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="7f8fad0" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=2k7358XqZHk"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/petaz.jpg"
+                                                    class="elementor-element elementor-element-3261749 elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="3261749" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=dPGusYdvEUo"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div data-dce-advanced-background-image-url="https://danubeproperties.com/wp-content/uploads/2024/05/pearlz1.jpg"
+                                                    class="elementor-element elementor-element-d051eaa elementor-widget elementor-widget-opal-video-popup"
+                                                    data-id="d051eaa" data-element_type="widget"
+                                                    data-widget_type="opal-video-popup.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-video-wrapper opal-video-popup">
+                                                            <a class="elementor-video-popup" role="button"
+                                                                href="https://www.youtube.com/watch?v=OXo3s8q8R9E"
+                                                                data-effect="mfp-zoom-in">
+                                                                <span class="elementor-video-icon">
+                                                                    <i aria-hidden="true" class="opal-icon-play"></i>
+                                                                </span>
+                                                            </a>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </main><!-- #main -->
+                        </div><!-- #primary -->
+                    </div><!-- .wrap -->
+                </div><!-- #content -->
+            </div><!-- .site-content-contain -->
+            <footer id="colophon" class="site-footer">
+                <div class="wrap">
+                    <div class="container">
+                    </div>
+                </div>
+                <div class="site-info py-3">
+                    <div class="container">
+                        Proudly powered by Wpopal.com </div>
+                </div><!-- .site-info -->
+                <div class="widget1 widget_block">
+                    <p>
+                    <div data-elementor-type="footer" data-elementor-id="26719" class="elementor elementor-26719"
+                        data-elementor-post-type="elementor_library">
+                        <section data-dce-background-color="#F7F8FA"
+                            class="elementor-section elementor-top-section elementor-element elementor-element-0fec14b elementor-section-stretched elementor-section-content-middle contact-us-form elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                            data-id="0fec14b" data-element_type="section"
+                            data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b0a3255"
+                                    data-id="b0a3255" data-element_type="column" id="get-in-touch-form"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-cc4ad0e elementor-widget elementor-widget-heading"
+                                            data-id="cc4ad0e" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner">
+                                                        <h4 class="elementor-heading-title elementor-size-default">Get
+                                                            in Touch</h4>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                         <div class="elementor-element elementor-element-568d9a5 getintouch-form elementor-widget elementor-widget-html"
+                                            data-id="568d9a5" data-element_type="widget"
+                                            data-widget_type="html.default">
+                                            <div class="elementor-widget-container">
+                                                
+                                                <form action="mail.php" method="post">
+                                                    <input type="text" name="first_name" placeholder="First name*"
+                                                        required>
+                                                        <br>
+                                                    <input type="text" name="last_name" placeholder="Last name*"
+                                                        required>
+                                                        <br>
+                                                    <input type="text" name="phone" placeholder="Phone*" required>
+                                                    <br>
+                                                    <input type="email" name="email" placeholder="Email*" required>
+                                                    <br>
+                                                    <textarea name="message" placeholder="Message*" required></textarea>
+                                                    <div class="disclaimer">
+                                                        Disclaimer: By clicking the submit button, you consent to our
+                                                        agents contacting you via phone, email, and WhatsApp.
+                                                    </div>
+                                                    <button type="submit" name="send">SUBMIT</button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d0a16a9 elementor-hidden-tablet elementor-hidden-mobile"
+                                    data-id="d0a16a9" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-ee4e5ad dce_masking-none elementor-widget elementor-widget-image"
+                                            data-id="ee4e5ad" data-element_type="widget"
+                                            data-widget_type="image.default">
+                                            <div class="elementor-widget-container">
+                                                <img decoding="async" width="645" height="648"
+                                                    src="https://danubeproperties.com/wp-content/uploads/2024/03/skyline_get-in-touch.jpg"
+                                                    class="attachment-full size-full wp-image-18345" alt=""
+                                                    srcset="https://danubeproperties.com/wp-content/uploads/2024/03/skyline_get-in-touch.jpg 645w, https://danubeproperties.com/wp-content/uploads/2024/03/skyline_get-in-touch-300x300.jpg 300w, https://danubeproperties.com/wp-content/uploads/2024/03/skyline_get-in-touch-150x150.jpg 150w"
+                                                    sizes="(max-width: 645px) 100vw, 645px" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <!-- dce invisible element c03da9d -->
+                        <section data-dce-background-color="#333333"
+                            class="elementor-section elementor-top-section elementor-element elementor-element-e6d7465 elementor-section-stretched elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+                            data-id="e6d7465" data-element_type="section"
+                            data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-no">
+                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-20b7d5c"
+                                    data-id="20b7d5c" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-cb3e281 elementor-widget elementor-widget-opal-site-logo elementor-widget-image"
+                                            data-id="cb3e281" data-element_type="widget"
+                                            data-widget_type="opal-site-logo.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-image">
+                                                    <a href="https://danubeproperties.com">
+                                                        <img loading="lazy" decoding="async" width="100" height="20"
+                                                            src="image/1LOGOS.PNG"
+                                                            class="attachment-full size-full wp-image-13568"
+                                                            alt="Real Estate Company in Dubai"
+                                                            srcset="image/1LOGOS.PNG 100w, https://danubeproperties.com/wp-content/uploads/2024/02/header-logo-300x16.png 300w"
+                                                            sizes="(max-width: 100px) 100vw, 100px" /> </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-52688f7 elementor-hidden-tablet elementor-hidden-mobile"
+                                    data-id="52688f7" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap">
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a672107"
+                                    data-id="a672107" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-314ed18 elementor-widget elementor-widget-heading"
+                                            data-id="314ed18" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner">
+                                                        <div class="elementor-heading-title elementor-size-default">
+                                                            Follow Us on:</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-e78486e e-grid-align-left e-grid-align-mobile-center e-grid-align-tablet-center elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
+                                            data-id="e78486e" data-element_type="widget"
+                                            data-widget_type="social-icons.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-social-icons-wrapper elementor-grid">
+                                                    <span class="elementor-grid-item">
+                                                        <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-182ffe8"
+                                                            href="https://www.facebook.com/danubeproperties/"
+                                                            target="_blank">
+                                                            <span class="elementor-screen-only"></span>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="18"
+                                                                height="18" viewBox="0 0 18 18" fill="none">
+                                                                <path
+                                                                    d="M17.7188 8.75C17.7188 13.1094 14.5195 16.7305 10.3359 17.3633V11.2812H12.375L12.7617 8.75H10.3359V7.13281C10.3359 6.42969 10.6875 5.76172 11.7773 5.76172H12.8672V3.61719C12.8672 3.61719 11.8828 3.44141 10.8984 3.44141C8.92969 3.44141 7.62891 4.67188 7.62891 6.85156V8.75H5.41406V11.2812H7.62891V17.3633C3.44531 16.7305 0.28125 13.1094 0.28125 8.75C0.28125 3.93359 4.18359 0.03125 9 0.03125C13.8164 0.03125 17.7188 3.93359 17.7188 8.75Z"
+                                                                    fill="white"></path>
+                                                            </svg> </a>
+                                                    </span>
+                                                    <span class="elementor-grid-item">
+                                                        <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-4cd2ad2"
+                                                            href="https://twitter.com/i/flow/login?redirect_after_login=%2Fdanubeprop"
+                                                            target="_blank">
+                                                            <span class="elementor-screen-only"></span>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                height="18" viewBox="0 0 16 18" fill="none">
+                                                                <path
+                                                                    d="M0 0.908733C0 0.95969 0.601274 1.8565 0.713376 1.96861C0.743949 1.99918 1.03949 2.42721 1.3758 2.93676C1.70191 3.43612 2.00764 3.87434 2.04841 3.90491C2.07898 3.93549 2.31338 4.27179 2.56815 4.66924C2.82293 5.05651 3.29172 5.7495 3.60764 6.19791C4.40255 7.29854 4.40255 7.29854 5.05478 8.28708C5.38089 8.76606 5.76815 9.31638 5.92102 9.51001L6.19618 9.8667L5.99236 10.1215C5.88025 10.2641 5.53376 10.6616 5.22803 11.0183C4.9121 11.375 4.56561 11.7724 4.4535 11.9253C4.3414 12.068 4.14777 12.282 4.03567 12.4043C3.82166 12.6183 3.11847 13.4336 2.43567 14.2489C2.24204 14.4731 1.9465 14.8196 1.76306 15.0132C1.3758 15.4412 1.19236 15.6552 0.66242 16.2973C0.438217 16.5622 0.193631 16.8374 0.132484 16.9087C-0.0917197 17.1227 -0.0203822 17.1533 0.743949 17.1533C1.43694 17.1533 1.50828 17.1329 1.73248 16.868C1.86497 16.7151 2.10955 16.4298 2.2828 16.2259C2.45605 16.0221 2.83312 15.5941 3.10828 15.268C3.39363 14.9419 3.70955 14.575 3.82166 14.4629C3.93376 14.3406 4.20892 14.0145 4.43312 13.7393C4.65732 13.454 4.93248 13.138 5.04459 13.0157C5.15669 12.9036 5.4828 12.5368 5.75796 12.2106C6.04331 11.8845 6.41019 11.4565 6.58344 11.2527L6.89936 10.896L7.03185 11.1508C7.10318 11.2833 7.1949 11.4157 7.22548 11.4463C7.26624 11.4769 7.56178 11.9049 7.89809 12.4145C8.2344 12.9138 8.52994 13.352 8.56051 13.3826C8.60127 13.4132 9.12102 14.1673 9.73248 15.0641C10.3439 15.961 10.9045 16.7559 10.9758 16.8272C11.0471 16.8985 11.1083 17.0106 11.1083 17.0616C11.1083 17.1126 12.1172 17.1533 13.5541 17.1533C14.8994 17.1533 16 17.1227 16 17.0922C16 17.0412 15.3987 16.1444 15.2866 16.0323C15.2561 16.0017 14.9605 15.5635 14.6242 15.0641C14.2981 14.5546 13.9924 14.1266 13.9516 14.096C13.921 14.0654 13.6866 13.7189 13.4318 13.3317C13.1771 12.9342 12.7083 12.2514 12.3924 11.803C11.5771 10.6718 11.5975 10.6922 10.8331 9.56096C10.4662 9.00045 10.0484 8.40937 9.91592 8.25651C9.6 7.85905 9.62038 7.6858 10.0484 7.20682C10.2522 6.99281 10.8331 6.33039 11.3325 5.73931C11.8318 5.14822 12.3924 4.50619 12.5758 4.31256C12.7592 4.11893 13.0854 3.73166 13.3096 3.4565C13.5236 3.18135 13.7987 2.85523 13.9108 2.73294C14.2777 2.34568 15.2051 1.26542 15.358 1.05141C15.5006 0.847588 15.4904 0.847588 14.7363 0.847588H13.9822L13.5338 1.37752C13.2994 1.67307 13.0038 2.00937 12.8917 2.13166C12.7796 2.24377 12.4637 2.61065 12.1783 2.93676C11.9032 3.26287 11.5057 3.72147 11.3121 3.94568C11.1185 4.18007 10.935 4.38389 10.9045 4.41447C10.8739 4.44504 10.5783 4.78135 10.242 5.1788C9.90573 5.56606 9.54904 5.98389 9.43694 6.09599C9.33503 6.2081 9.18217 6.40173 9.10064 6.52402C8.9172 6.80937 8.90701 6.79918 8.10191 5.58644C7.7656 5.07689 7.44968 4.61829 7.38854 4.55714C7.33758 4.496 6.73631 3.62975 6.06369 2.64122L4.84076 0.847588H2.42548C1.09045 0.847588 0 0.87816 0 0.908733ZM4.86115 3.09982C5.61529 4.18007 6.12484 4.90364 7.12357 6.36096C7.37834 6.71765 7.60255 7.03358 7.64331 7.06415C7.68408 7.09472 7.87771 7.36988 8.08153 7.6858C8.27516 8.01192 8.50955 8.34822 8.60127 8.45014C8.69299 8.56224 9.17197 9.23485 9.67134 9.96861C10.1707 10.6922 10.6191 11.3342 10.6701 11.3954C10.721 11.4463 11.1185 12.0272 11.5669 12.6692C12.0051 13.3113 12.3924 13.8616 12.4229 13.8922C12.4535 13.9227 12.5758 14.0756 12.6981 14.2489C12.8102 14.4119 13.1159 14.8501 13.3605 15.217C13.6153 15.5839 13.8599 15.9406 13.9006 16.0017C13.9516 16.1036 13.7376 16.1342 12.9427 16.1342H11.9236L11.5465 15.5431C11.3427 15.2272 11.149 14.9419 11.1185 14.9113C11.0879 14.8807 10.8943 14.6259 10.7006 14.3508C10.507 14.0654 10.293 13.7801 10.2217 13.7087C10.1503 13.6374 10.0892 13.5355 10.0892 13.4845C10.0892 13.4336 10.028 13.3317 9.96688 13.2603C9.89554 13.189 9.65096 12.8527 9.42675 12.5164C9.20255 12.1801 8.99873 11.8845 8.95796 11.854C8.92739 11.8234 8.75414 11.5686 8.56051 11.2934C8.36688 11.0081 8.19363 10.7635 8.16306 10.7329C8.13248 10.7024 7.82675 10.2641 7.49045 9.76479C7.15414 9.25523 6.82803 8.79663 6.76688 8.7253C6.70573 8.66415 6.50191 8.36861 6.30828 8.06287C6.12484 7.76733 5.9414 7.50237 5.91083 7.47179C5.87006 7.44122 5.69682 7.18644 5.50318 6.91128C5.30955 6.62593 5.13631 6.38135 5.10573 6.35077C5.06497 6.3202 4.86115 6.02466 4.63694 5.68835C4.41274 5.35205 4.20892 5.05651 4.17834 5.02593C4.14777 4.99536 3.87261 4.6081 3.56688 4.15969C3.27134 3.71128 2.98599 3.32402 2.95541 3.29345C2.87389 3.2323 2.14013 2.08071 2.14013 2.01956C2.14013 1.98899 2.57834 1.96861 3.10828 1.96861H4.06624L4.86115 3.09982Z"
+                                                                    fill="white"></path>
+                                                            </svg> </a>
+                                                    </span>
+                                                    <span class="elementor-grid-item">
+                                                        <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-d9e8c2c"
+                                                            href="https://www.instagram.com/danubeproperties/"
+                                                            target="_blank">
+                                                            <span class="elementor-screen-only"></span>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                height="17" viewBox="0 0 16 17" fill="none">
+                                                                <path
+                                                                    d="M8 4.70703C10.2148 4.70703 12.043 6.53516 12.043 8.75C12.043 11 10.2148 12.793 8 12.793C5.75 12.793 3.95703 11 3.95703 8.75C3.95703 6.53516 5.75 4.70703 8 4.70703ZM8 11.3867C9.44141 11.3867 10.6016 10.2266 10.6016 8.75C10.6016 7.30859 9.44141 6.14844 8 6.14844C6.52344 6.14844 5.36328 7.30859 5.36328 8.75C5.36328 10.2266 6.55859 11.3867 8 11.3867ZM13.1328 4.56641C13.1328 5.09375 12.7109 5.51562 12.1836 5.51562C11.6562 5.51562 11.2344 5.09375 11.2344 4.56641C11.2344 4.03906 11.6562 3.61719 12.1836 3.61719C12.7109 3.61719 13.1328 4.03906 13.1328 4.56641ZM15.8047 5.51562C15.875 6.81641 15.875 10.7188 15.8047 12.0195C15.7344 13.2852 15.4531 14.375 14.5391 15.3242C13.625 16.2383 12.5 16.5195 11.2344 16.5898C9.93359 16.6602 6.03125 16.6602 4.73047 16.5898C3.46484 16.5195 2.375 16.2383 1.42578 15.3242C0.511719 14.375 0.230469 13.2852 0.160156 12.0195C0.0898438 10.7188 0.0898438 6.81641 0.160156 5.51562C0.230469 4.25 0.511719 3.125 1.42578 2.21094C2.375 1.29688 3.46484 1.01562 4.73047 0.945312C6.03125 0.875 9.93359 0.875 11.2344 0.945312C12.5 1.01562 13.625 1.29688 14.5391 2.21094C15.4531 3.125 15.7344 4.25 15.8047 5.51562ZM14.1172 13.3906C14.5391 12.3711 14.4336 9.91016 14.4336 8.75C14.4336 7.625 14.5391 5.16406 14.1172 4.10938C13.8359 3.44141 13.3086 2.87891 12.6406 2.63281C11.5859 2.21094 9.125 2.31641 8 2.31641C6.83984 2.31641 4.37891 2.21094 3.35938 2.63281C2.65625 2.91406 2.12891 3.44141 1.84766 4.10938C1.42578 5.16406 1.53125 7.625 1.53125 8.75C1.53125 9.91016 1.42578 12.3711 1.84766 13.3906C2.12891 14.0938 2.65625 14.6211 3.35938 14.9023C4.37891 15.3242 6.83984 15.2188 8 15.2188C9.125 15.2188 11.5859 15.3242 12.6406 14.9023C13.3086 14.6211 13.8711 14.0938 14.1172 13.3906Z"
+                                                                    fill="white"></path>
+                                                            </svg> </a>
+                                                    </span>
+                                                    <span class="elementor-grid-item">
+                                                        <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-a8e0a82"
+                                                            href="https://ae.linkedin.com/company/danubeproperties"
+                                                            target="_blank">
+                                                            <span class="elementor-screen-only"></span>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                height="17" viewBox="0 0 16 17" fill="none">
+                                                                <path
+                                                                    d="M14.75 0.875C15.3477 0.875 15.875 1.40234 15.875 2.03516V15.5C15.875 16.1328 15.3477 16.625 14.75 16.625H1.21484C0.617188 16.625 0.125 16.1328 0.125 15.5V2.03516C0.125 1.40234 0.617188 0.875 1.21484 0.875H14.75ZM4.87109 14.375V6.88672H2.55078V14.375H4.87109ZM3.71094 5.83203C4.44922 5.83203 5.04688 5.23438 5.04688 4.49609C5.04688 3.75781 4.44922 3.125 3.71094 3.125C2.9375 3.125 2.33984 3.75781 2.33984 4.49609C2.33984 5.23438 2.9375 5.83203 3.71094 5.83203ZM13.625 14.375V10.2617C13.625 8.25781 13.168 6.67578 10.8125 6.67578C9.6875 6.67578 8.91406 7.30859 8.59766 7.90625H8.5625V6.88672H6.34766V14.375H8.66797V10.6836C8.66797 9.69922 8.84375 8.75 10.0742 8.75C11.2695 8.75 11.2695 9.875 11.2695 10.7188V14.375H13.625Z"
+                                                                    fill="white"></path>
+                                                            </svg> </a>
+                                                    </span>
+                                                    <span class="elementor-grid-item">
+                                                        <a class="elementor-icon elementor-social-icon elementor-social-icon- elementor-repeater-item-58d110e"
+                                                            href="https://www.youtube.com/user/danubeproperties"
+                                                            target="_blank">
+                                                            <span class="elementor-screen-only"></span>
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="20"
+                                                                height="14" viewBox="0 0 20 14" fill="none">
+                                                                <path
+                                                                    d="M19.1758 2.14453C19.5977 3.62109 19.5977 6.78516 19.5977 6.78516C19.5977 6.78516 19.5977 9.91406 19.1758 11.4258C18.9648 12.2695 18.2969 12.9023 17.4883 13.1133C15.9766 13.5 10 13.5 10 13.5C10 13.5 3.98828 13.5 2.47656 13.1133C1.66797 12.9023 1 12.2695 0.789062 11.4258C0.367188 9.91406 0.367188 6.78516 0.367188 6.78516C0.367188 6.78516 0.367188 3.62109 0.789062 2.14453C1 1.30078 1.66797 0.632812 2.47656 0.421875C3.98828 0 10 0 10 0C10 0 15.9766 0 17.4883 0.421875C18.2969 0.632812 18.9648 1.30078 19.1758 2.14453ZM8.03125 9.63281L13.0234 6.78516L8.03125 3.9375V9.63281Z"
+                                                                    fill="white"></path>
+                                                            </svg> </a>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section data-dce-background-color="#333333"
+                            class="elementor-section elementor-top-section elementor-element elementor-element-b5f7000 elementor-section-stretched elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default"
+                            data-id="b5f7000" data-element_type="section"
+                            data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-575cad6"
+                                    data-id="575cad6" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-52d9836 elementor-widget elementor-widget-heading"
+                                            data-id="52d9836" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner">
+                                                        <div class="elementor-heading-title elementor-size-default">
+                                                            About Us</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-d5e5f1a elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="d5e5f1a" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-about-us"
+                                                        class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17099">
+                                                            <a href="https://danubeproperties.com/about-us/"
+                                                                class="elementor-item"><span class="menu-title">Company
+                                                                    Profile</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17100">
+                                                            <a href="https://danubeproperties.com/about-us/founders-message/"
+                                                                class="elementor-item"><span class="menu-title">Founders
+                                                                    Message</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17101">
+                                                            <a href="https://danubeproperties.com/about-us/leadership-team/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Leadership team</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17102">
+                                                            <a href="https://danubeproperties.com/about-us/management-team/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Management team</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17103">
+                                                            <a href="https://danubeproperties.com/about-us/our-journey/"
+                                                                class="elementor-item"><span class="menu-title">Our
+                                                                    journey</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type_archive menu-item-object-jobpost menu-item-18573">
+                                                            <a href="https://danubeproperties.com/jobs/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Careers</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13624">
+                                                            <a href="https://danubeproperties.com/contact-us/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Contact</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-d5e5f1a">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-d5e5f1a" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17099">
+                                                            <a href="https://danubeproperties.com/about-us/"
+                                                                class="elementor-item">Company Profile</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17100">
+                                                            <a href="https://danubeproperties.com/about-us/founders-message/"
+                                                                class="elementor-item">Founders Message</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17101">
+                                                            <a href="https://danubeproperties.com/about-us/leadership-team/"
+                                                                class="elementor-item">Leadership team</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17102">
+                                                            <a href="https://danubeproperties.com/about-us/management-team/"
+                                                                class="elementor-item">Management team</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17103">
+                                                            <a href="https://danubeproperties.com/about-us/our-journey/"
+                                                                class="elementor-item">Our journey</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type_archive menu-item-object-jobpost menu-item-18573">
+                                                            <a href="https://danubeproperties.com/jobs/"
+                                                                class="elementor-item">Careers</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13624">
+                                                            <a href="https://danubeproperties.com/contact-us/"
+                                                                class="elementor-item">Contact</a></li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5c96d7b"
+                                    data-id="5c96d7b" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-5cb6eda elementor-widget elementor-widget-heading"
+                                            data-id="5cb6eda" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner">
+                                                        <div class="elementor-heading-title elementor-size-default">
+                                                            Projects</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-4dee489 elementor-nav-menu--indicator-none elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-menu-toggle__align-center elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="4dee489" data-element_type="widget"
+                                            data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-projects"
+                                                        class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17194">
+                                                            <a href="#" class="elementor-item"><span
+                                                                    class="menu-title">Latest Launches</span></a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20194">
+                                                                    <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">DIAMONDZ</span></a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13605">
+                                                            <a href="#" class="elementor-item"><span
+                                                                    class="menu-title">Ongoing Projects</span></a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17108">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">BAYZ101</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17115">
+                                                                    <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">SPORTZ</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17110">
+                                                                    <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">ELEGANZ</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17114">
+                                                                    <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">OCEANZ</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17112">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz-3/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">ELITZ 3</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17111">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz-2/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Elitz 2</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17113">
+                                                                    <a href="https://danubeproperties.com/portfolio/fashionz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">FASHIONZ</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17123">
+                                                                    <a href="https://danubeproperties.com/portfolio/viewz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Viewz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17116">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Elitz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17121">
+                                                                    <a href="https://danubeproperties.com/portfolio/petalz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Petalz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17119">
+                                                                    <a href="https://danubeproperties.com/portfolio/opalz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Opalz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17120">
+                                                                    <a href="https://danubeproperties.com/portfolio/pearlz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Pearlz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17117">
+                                                                    <a href="https://danubeproperties.com/portfolio/gemz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Gemz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17122">
+                                                                    <a href="https://danubeproperties.com/portfolio/skyz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Skyz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17118">
+                                                                    <a href="https://danubeproperties.com/portfolio/olivz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Olivz</span></a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17109">
+                                                            <a href="#" class="elementor-item"><span
+                                                                    class="menu-title">Completed Projects</span></a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17130">
+                                                                    <a href="https://danubeproperties.com/portfolio/jewelz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Jewelz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17135">
+                                                                    <a href="https://danubeproperties.com/portfolio/wavez/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Wavez</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17125">
+                                                                    <a href="https://danubeproperties.com/portfolio/elz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Elz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17131">
+                                                                    <a href="https://danubeproperties.com/portfolio/lawnz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Lawnz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18767">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">BAYZ</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17132">
+                                                                    <a href="https://danubeproperties.com/portfolio/miraclz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Miraclz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17133">
+                                                                    <a href="https://danubeproperties.com/portfolio/resortz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Resortz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17126">
+                                                                    <a href="https://danubeproperties.com/portfolio/glamz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Glamz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17134">
+                                                                    <a href="https://danubeproperties.com/portfolio/starz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Starz</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17129">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-3/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Glitz 3</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17128">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-2/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Glitz 2</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17127">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-1/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Glitz 1</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17124">
+                                                                    <a href="https://danubeproperties.com/portfolio/dreamz/"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">DREAMZ</span></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-4dee489">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title"></span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-4dee489" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17194">
+                                                            <a href="#" class="elementor-item">Latest Launches</a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20194">
+                                                                    <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                        class="elementor-sub-item">DIAMONDZ</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13605">
+                                                            <a href="#" class="elementor-item">Ongoing Projects</a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17108">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                        class="elementor-sub-item">BAYZ101</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17115">
+                                                                    <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                        class="elementor-sub-item">SPORTZ</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17110">
+                                                                    <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                        class="elementor-sub-item">ELEGANZ</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17114">
+                                                                    <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                        class="elementor-sub-item">OCEANZ</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17112">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz-3/"
+                                                                        class="elementor-sub-item">ELITZ 3</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17111">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz-2/"
+                                                                        class="elementor-sub-item">Elitz 2</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17113">
+                                                                    <a href="https://danubeproperties.com/portfolio/fashionz/"
+                                                                        class="elementor-sub-item">FASHIONZ</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17123">
+                                                                    <a href="https://danubeproperties.com/portfolio/viewz/"
+                                                                        class="elementor-sub-item">Viewz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17116">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz/"
+                                                                        class="elementor-sub-item">Elitz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17121">
+                                                                    <a href="https://danubeproperties.com/portfolio/petalz/"
+                                                                        class="elementor-sub-item">Petalz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17119">
+                                                                    <a href="https://danubeproperties.com/portfolio/opalz/"
+                                                                        class="elementor-sub-item">Opalz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17120">
+                                                                    <a href="https://danubeproperties.com/portfolio/pearlz/"
+                                                                        class="elementor-sub-item">Pearlz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17117">
+                                                                    <a href="https://danubeproperties.com/portfolio/gemz/"
+                                                                        class="elementor-sub-item">Gemz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17122">
+                                                                    <a href="https://danubeproperties.com/portfolio/skyz/"
+                                                                        class="elementor-sub-item">Skyz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17118">
+                                                                    <a href="https://danubeproperties.com/portfolio/olivz/"
+                                                                        class="elementor-sub-item">Olivz</a></li>
+                                                            </ul>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17109">
+                                                            <a href="#" class="elementor-item">Completed Projects</a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17130">
+                                                                    <a href="https://danubeproperties.com/portfolio/jewelz/"
+                                                                        class="elementor-sub-item">Jewelz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17135">
+                                                                    <a href="https://danubeproperties.com/portfolio/wavez/"
+                                                                        class="elementor-sub-item">Wavez</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17125">
+                                                                    <a href="https://danubeproperties.com/portfolio/elz/"
+                                                                        class="elementor-sub-item">Elz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17131">
+                                                                    <a href="https://danubeproperties.com/portfolio/lawnz/"
+                                                                        class="elementor-sub-item">Lawnz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18767">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz/"
+                                                                        class="elementor-sub-item">BAYZ</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17132">
+                                                                    <a href="https://danubeproperties.com/portfolio/miraclz/"
+                                                                        class="elementor-sub-item">Miraclz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17133">
+                                                                    <a href="https://danubeproperties.com/portfolio/resortz/"
+                                                                        class="elementor-sub-item">Resortz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17126">
+                                                                    <a href="https://danubeproperties.com/portfolio/glamz/"
+                                                                        class="elementor-sub-item">Glamz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17134">
+                                                                    <a href="https://danubeproperties.com/portfolio/starz/"
+                                                                        class="elementor-sub-item">Starz</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17129">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-3/"
+                                                                        class="elementor-sub-item">Glitz 3</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17128">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-2/"
+                                                                        class="elementor-sub-item">Glitz 2</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17127">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-1/"
+                                                                        class="elementor-sub-item">Glitz 1</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-17124">
+                                                                    <a href="https://danubeproperties.com/portfolio/dreamz/"
+                                                                        class="elementor-sub-item">DREAMZ</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ffff834"
+                                    data-id="ffff834" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-28dcd9e elementor-widget elementor-widget-heading"
+                                            data-id="28dcd9e" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner"><span
+                                                            class="elementor-heading-title elementor-size-default">Danube
+                                                            Assist</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-4ad4d13 elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="4ad4d13" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-danube-assist"
+                                                        class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17803">
+                                                            <a href="https://danubeproperties.com/1-payment-plan/"
+                                                                class="elementor-item"><span class="menu-title">1%
+                                                                    Payment Plan</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13614">
+                                                            <a href="#" class="elementor-item"><span
+                                                                    class="menu-title">Broker Portal</span></a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13615">
+                                                                    <a target="_blank"
+                                                                        href="https://danubeproperties.biz/signup"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Register</span></a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13616">
+                                                                    <a target="_blank"
+                                                                        href="https://danubeproperties.biz/login"
+                                                                        class="elementor-sub-item"><span
+                                                                            class="menu-title">Login</span></a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-4ad4d13">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-4ad4d13" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17803">
+                                                            <a href="https://danubeproperties.com/1-payment-plan/"
+                                                                class="elementor-item">1% Payment Plan</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13614">
+                                                            <a href="#" class="elementor-item">Broker Portal</a>
+                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13615">
+                                                                    <a target="_blank" rel="noopener"
+                                                                        href="https://danubeproperties.biz/signup"
+                                                                        class="elementor-sub-item">Register</a></li>
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13616">
+                                                                    <a target="_blank" rel="noopener"
+                                                                        href="https://danubeproperties.biz/login"
+                                                                        class="elementor-sub-item">Login</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a741978"
+                                    data-id="a741978" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-dcfdd86 elementor-widget elementor-widget-heading"
+                                            data-id="dcfdd86" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner"><span
+                                                            class="elementor-heading-title elementor-size-default">Media</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-ef588f2 elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="ef588f2" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-media" class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17107">
+                                                            <a href="https://danubeproperties.com/news/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">News</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16241 current_page_item menu-item-17106">
+                                                            <a href="image/1LOGOS.PNG"
+                                                                class="elementor-item  elementor-item-active"><span
+                                                                    class="menu-title">Video</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27895">
+                                                            <a href="https://danubeproperties.com/blog/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Blog</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-ef588f2">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-ef588f2" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17107">
+                                                            <a href="https://danubeproperties.com/news/"
+                                                                class="elementor-item">News</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16241 current_page_item menu-item-17106">
+                                                            <a href="image/1LOGOS.PNG" aria-current="page"
+                                                                class="elementor-item  elementor-item-active">Video</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27895">
+                                                            <a href="https://danubeproperties.com/blog/"
+                                                                class="elementor-item">Blog</a></li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section data-dce-background-color="#333333"
+                            class="elementor-section elementor-top-section elementor-element elementor-element-ec4ed8a elementor-section-stretched elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default"
+                            data-id="ec4ed8a" data-element_type="section"
+                            data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c2ad04f"
+                                    data-id="c2ad04f" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-81df275 elementor-widget elementor-widget-heading"
+                                            data-id="81df275" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner"><span
+                                                            class="elementor-heading-title elementor-size-default">Support</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-10e624a elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="10e624a" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-support" class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13629">
+                                                            <a href="/cdn-cgi/l/email-protection#1073635074717e65727560627f607562647975633e7175"
+                                                                class="elementor-item"><span class="menu-title">After
+                                                                    Sales Support</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13630">
+                                                            <a href="/cdn-cgi/l/email-protection#e7828996928e959ea7838689928582979588978295938e8294c98682"
+                                                                class="elementor-item"><span class="menu-title">Sales
+                                                                    Support</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-10e624a">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-10e624a" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13629">
+                                                            <a href="/cdn-cgi/l/email-protection#1f7c6c5f7b7e716a7d7a6f6d706f7a6d6b767a6c317e7a"
+                                                                class="elementor-item">After Sales Support</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13630">
+                                                            <a href="/cdn-cgi/l/email-protection#d9bcb7a8acb0aba099bdb8b7acbbbca9abb6a9bcabadb0bcaaf7b8bc"
+                                                                class="elementor-item">Sales Support</a></li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3f94dd5"
+                                    data-id="3f94dd5" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-1150d67 elementor-widget elementor-widget-heading"
+                                            data-id="1150d67" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner"><span
+                                                            class="elementor-heading-title elementor-size-default">Latest
+                                                            Launches</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-8412795 elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="8412795" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-latest-lunches"
+                                                        class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29106">
+                                                            <a href="https://danubeproperties.com/portfolio/bayz102/"
+                                                                class="elementor-item"><span class="menu-title">Bayz
+                                                                    102</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29105">
+                                                            <a href="https://danubeproperties.com/portfolio/oasiz/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Oasiz</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20195">
+                                                            <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">DIAMONDZ</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18306">
+                                                            <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">BAYZ101</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18310">
+                                                            <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">SPORTZ</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18307">
+                                                            <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">ELEGANZ</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18309">
+                                                            <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">OCEANZ</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-8412795">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-8412795" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29106">
+                                                            <a href="https://danubeproperties.com/portfolio/bayz102/"
+                                                                class="elementor-item">Bayz 102</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29105">
+                                                            <a href="https://danubeproperties.com/portfolio/oasiz/"
+                                                                class="elementor-item">Oasiz</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20195">
+                                                            <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                class="elementor-item">DIAMONDZ</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18306">
+                                                            <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                class="elementor-item">BAYZ101</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18310">
+                                                            <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                class="elementor-item">SPORTZ</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18307">
+                                                            <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                class="elementor-item">ELEGANZ</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18309">
+                                                            <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                class="elementor-item">OCEANZ</a></li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-762f1dc"
+                                    data-id="762f1dc" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-56f9474 elementor-widget elementor-widget-heading"
+                                            data-id="56f9474" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner"><span
+                                                            class="elementor-heading-title elementor-size-default">Popular
+                                                            Areas</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-4ef8bcd elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="4ef8bcd" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-popular-area"
+                                                        class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26430">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-al-furjan/"
+                                                                class="elementor-item"><span class="menu-title">AL
+                                                                    Furjan</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26431">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-al-warsan/"
+                                                                class="elementor-item"><span class="menu-title">AL
+                                                                    Warsan</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26432">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-arjan/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Arjan</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26433">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-business-bay/"
+                                                                class="elementor-item"><span class="menu-title">Business
+                                                                    Bay</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26434">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-maritime-city/"
+                                                                class="elementor-item"><span class="menu-title">Dubai
+                                                                    Maritime City</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26435">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-science-park/"
+                                                                class="elementor-item"><span class="menu-title">Dubai
+                                                                    Science Park</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26436">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-studio-city/"
+                                                                class="elementor-item"><span class="menu-title">Dubai
+                                                                    Studio City</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26437">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-international-city/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">International City</span></a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26438">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-jlt/"
+                                                                class="elementor-item"><span class="menu-title">Jumeirah
+                                                                    Lake Towers (JLT)</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26439">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-jvc/"
+                                                                class="elementor-item"><span class="menu-title">Jumeirah
+                                                                    Village Circle (JVC)</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26440">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-jvt/"
+                                                                class="elementor-item"><span class="menu-title">Jumeirah
+                                                                    Village Triangle (JVT)</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26441">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-liwan/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Liwan</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26442">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-sports-city/"
+                                                                class="elementor-item"><span class="menu-title">Sports
+                                                                    City</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-30029">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-silicon-oasis/"
+                                                                class="elementor-item"><span class="menu-title">Dubai
+                                                                    Silicon Oasis</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-4ef8bcd">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-4ef8bcd" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26430">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-al-furjan/"
+                                                                class="elementor-item">AL Furjan</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26431">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-al-warsan/"
+                                                                class="elementor-item">AL Warsan</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26432">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-arjan/"
+                                                                class="elementor-item">Arjan</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26433">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-business-bay/"
+                                                                class="elementor-item">Business Bay</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26434">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-maritime-city/"
+                                                                class="elementor-item">Dubai Maritime City</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26435">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-science-park/"
+                                                                class="elementor-item">Dubai Science Park</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26436">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-studio-city/"
+                                                                class="elementor-item">Dubai Studio City</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26437">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-international-city/"
+                                                                class="elementor-item">International City</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26438">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-jlt/"
+                                                                class="elementor-item">Jumeirah Lake Towers (JLT)</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26439">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-jvc/"
+                                                                class="elementor-item">Jumeirah Village Circle (JVC)</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26440">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-jvt/"
+                                                                class="elementor-item">Jumeirah Village Triangle
+                                                                (JVT)</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26441">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-liwan/"
+                                                                class="elementor-item">Liwan</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-26442">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-sports-city/"
+                                                                class="elementor-item">Sports City</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-taxonomy menu-item-object-locations menu-item-30029">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai-silicon-oasis/"
+                                                                class="elementor-item">Dubai Silicon Oasis</a></li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bead6d4"
+                                    data-id="bead6d4" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-12fa8dc elementor-widget elementor-widget-heading"
+                                            data-id="12fa8dc" data-element_type="widget"
+                                            data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-heading-wrapper">
+                                                    <div class="elementor-heading-wrapper-inner"><span
+                                                            class="elementor-heading-title elementor-size-default">Recent
+                                                            Searches</span></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-8294f05 elementor-nav-menu--indicator-none elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-menu-toggle__align-left elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="8294f05" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;toggle&quot;:&quot;burger&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav class="elementor-nav-menu--mobile-enable elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none"
+                                                    data-subMenusMinWidth="50" data-subMenusMaxWidth="500">
+                                                    <ul id="menu-footer-recent-search"
+                                                        class="elementor-nav-menu sm-vertical">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25322">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Apartments For Sale
+                                                                    Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25327">
+                                                            <a href="https://danubeproperties.com/studio-apartments-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Studio
+                                                                    Apartments For Sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25323">
+                                                            <a href="https://danubeproperties.com/one-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">One
+                                                                    Bedroom Apartments Sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25324">
+                                                            <a href="https://danubeproperties.com/two-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Two
+                                                                    Bedroom Apartments Sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25325">
+                                                            <a href="https://danubeproperties.com/three-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Three
+                                                                    Bedroom Apartments Sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25326">
+                                                            <a href="https://danubeproperties.com/four-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Four
+                                                                    Bedroom Apartments Sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25328">
+                                                            <a href="https://danubeproperties.com/off-plan-apartments-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Off Plan
+                                                                    Apartments Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25329">
+                                                            <a href="https://danubeproperties.com/ready-to-move-apartments-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Ready To
+                                                                    Move Apartments Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25330">
+                                                            <a href="https://danubeproperties.com/villas-for-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Villas
+                                                                    For Sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30341">
+                                                            <a href="https://danubeproperties.com/duplex-apartments-for-sale-dubai/"
+                                                                class="elementor-item"><span class="menu-title">Duplexes
+                                                                    for sale Dubai</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30342">
+                                                            <a href="https://danubeproperties.com/penthouses-for-sale-dubai/"
+                                                                class="elementor-item"><span
+                                                                    class="menu-title">Penthouses For Sale
+                                                                    Dubai</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                                <div class="elementor-menu-toggle" data-target="#menu-8294f05">
+                                                    <i class="eicon" aria-hidden="true"></i>
+                                                    <span class="menu-toggle-title">Menu</span>
+                                                </div>
+                                                <nav class="elementor-nav-menu--dropdown elementor-nav-menu__container">
+                                                    <ul id="menu-dropdow-1-8294f05" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25322">
+                                                            <a href="https://danubeproperties.com/apartments-for-sale-dubai/"
+                                                                class="elementor-item">Apartments For Sale Dubai</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25327">
+                                                            <a href="https://danubeproperties.com/studio-apartments-sale-dubai/"
+                                                                class="elementor-item">Studio Apartments For Sale
+                                                                Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25323">
+                                                            <a href="https://danubeproperties.com/one-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item">One Bedroom Apartments Sale
+                                                                Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25324">
+                                                            <a href="https://danubeproperties.com/two-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item">Two Bedroom Apartments Sale
+                                                                Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25325">
+                                                            <a href="https://danubeproperties.com/three-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item">Three Bedroom Apartments Sale
+                                                                Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25326">
+                                                            <a href="https://danubeproperties.com/four-bedroom-apartments-sale-dubai/"
+                                                                class="elementor-item">Four Bedroom Apartments Sale
+                                                                Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25328">
+                                                            <a href="https://danubeproperties.com/off-plan-apartments-dubai/"
+                                                                class="elementor-item">Off Plan Apartments Dubai</a>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25329">
+                                                            <a href="https://danubeproperties.com/ready-to-move-apartments-dubai/"
+                                                                class="elementor-item">Ready To Move Apartments
+                                                                Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25330">
+                                                            <a href="https://danubeproperties.com/villas-for-sale-dubai/"
+                                                                class="elementor-item">Villas For Sale Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30341">
+                                                            <a href="https://danubeproperties.com/duplex-apartments-for-sale-dubai/"
+                                                                class="elementor-item">Duplexes for sale Dubai</a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30342">
+                                                            <a href="https://danubeproperties.com/penthouses-for-sale-dubai/"
+                                                                class="elementor-item">Penthouses For Sale Dubai</a>
+                                                        </li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section data-dce-background-color="#333333"
+                            class="elementor-section elementor-top-section elementor-element elementor-element-7f04742 elementor-section-stretched elementor-section-full_width elementor-hidden-desktop elementor-section-height-default elementor-section-height-default"
+                            data-id="7f04742" data-element_type="section"
+                            data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dcb86e9"
+                                    data-id="dcb86e9" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-5a8f73f elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
+                                            data-id="5a8f73f" data-element_type="widget"
+                                            data-widget_type="divider.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-divider">
+                                                    <span class="elementor-divider-separator">
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-3468a96 mobile-menu-toggle elementor-widget elementor-widget-toggle"
+                                            data-id="3468a96" data-element_type="widget"
+                                            data-widget_type="toggle.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-toggle">
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5491" class="elementor-tab-title"
+                                                            data-tab="1" role="button"
+                                                            aria-controls="elementor-tab-content-5491"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">ABOUT US </a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5491"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="1" role="region"
+                                                            aria-labelledby="elementor-tab-title-5491">
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/about-us/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Company Profile</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/about-us/founders-message/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Founders Message</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/about-us/leadership-team/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Leadership team</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/about-us/management-team/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Management team</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/about-us/our-journey/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Our journey</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/jobs/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Careers</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-3"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/contact-us/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Contact</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5492" class="elementor-tab-title"
+                                                            data-tab="2" role="button"
+                                                            aria-controls="elementor-tab-content-5492"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">PROJECTS</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5492"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="2" role="region"
+                                                            aria-labelledby="elementor-tab-title-5492">
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="#" class="elementor-item"><span
+                                                                            class="menu-title">Latest Launches</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">DIAMONDZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="#" class="elementor-item"><span
+                                                                            class="menu-title">Ongoing Projects</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">BAYZ101</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">SPORTZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">ELEGANZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">OCEANZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz-3/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">ELITZ 3</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz-2/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Elitz 2</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/fashionz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">FASHIONZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/viewz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Viewz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/elitz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Elitz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/petalz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Petalz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/opalz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Opalz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/pearlz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Pearlz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/gemz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Gemz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/skyz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Skyz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/olivz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Olivz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="#" class="elementor-item"><span
+                                                                            class="menu-title">Completed Projects</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/jewelz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Jewelz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/wavez/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Wavez</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/elz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Elz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/lawnz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Lawnz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">BAYZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/miraclz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Miraclz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/resortz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Resortz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/glamz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Glamz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/starz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Starz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-3/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Glitz 3</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-2/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Glitz 2</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/glitz-1/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Glitz 1</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/dreamz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">DREAMZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5493" class="elementor-tab-title"
+                                                            data-tab="3" role="button"
+                                                            aria-controls="elementor-tab-content-5493"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">DANUBE
+                                                                ASSIST</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5493"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="3" role="region"
+                                                            aria-labelledby="elementor-tab-title-5493">
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/1-payment-plan/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">1% Payment Plan</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="#" class="elementor-item"><span
+                                                                            class="menu-title">Broker Portal</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.biz/signup"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Register</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-1"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.biz/login"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Login</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5494" class="elementor-tab-title"
+                                                            data-tab="4" role="button"
+                                                            aria-controls="elementor-tab-content-5494"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">MEDIA</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5494"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="4" role="region"
+                                                            aria-labelledby="elementor-tab-title-5494">
+                                                            <ul id="menu-menu-footer-4"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/news/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">News</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-4"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="image/1LOGOS.PNG" class="elementor-item"><span
+                                                                            class="menu-title">Video</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-4"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/blog/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Blog</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5495" class="elementor-tab-title"
+                                                            data-tab="5" role="button"
+                                                            aria-controls="elementor-tab-content-5495"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">SUPPORT</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5495"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="5" role="region"
+                                                            aria-labelledby="elementor-tab-title-5495">
+                                                            <ul id="menu-menu-footer-5"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="/cdn-cgi/l/email-protection#7b18083b1f1a150e191e0b09140b1e090f121e08551a1e"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">After Sales
+                                                                            Support</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-5"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="/cdn-cgi/l/email-protection#4f2a213e3a263d360f2b2e213a2d2a3f3d203f2a3d3b262a3c612e2a"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Sales Support</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5496" class="elementor-tab-title"
+                                                            data-tab="6" role="button"
+                                                            aria-controls="elementor-tab-content-5496"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">LATEST
+                                                                LAUNCHES</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5496"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="6" role="region"
+                                                            aria-labelledby="elementor-tab-title-5496">
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz102/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Bayz 102</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/oasiz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Oasiz</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/diamondz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">DIAMONDZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/bayz101/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">BAYZ101</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/sportz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">SPORTZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/eleganz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">ELEGANZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-6"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/portfolio/oceanz/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">OCEANZ</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5497" class="elementor-tab-title"
+                                                            data-tab="7" role="button"
+                                                            aria-controls="elementor-tab-content-5497"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">POPULAR
+                                                                AREAS</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5497"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="7" role="region"
+                                                            aria-labelledby="elementor-tab-title-5497">
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-al-furjan/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">AL Furjan</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-al-warsan/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">AL Warsan</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-arjan/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Arjan</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-business-bay/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Business Bay</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-dubai-maritime-city/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Dubai Maritime
+                                                                            City</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-dubai-science-park/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Dubai Science Park</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-dubai-studio-city/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Dubai Studio City</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-international-city/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">International City</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-jlt/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Jumeirah Lake Towers
+                                                                            (JLT)</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-jvc/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Jumeirah Village Circle
+                                                                            (JVC)</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-jvt/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Jumeirah Village Triangle
+                                                                            (JVT)</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-liwan/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Liwan</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-dubai-sports-city/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Sports City</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-7"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-dubai-silicon-oasis/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Dubai Silicon
+                                                                            Oasis</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                    <div class="elementor-toggle-item">
+                                                        <div id="elementor-tab-title-5498" class="elementor-tab-title"
+                                                            data-tab="8" role="button"
+                                                            aria-controls="elementor-tab-content-5498"
+                                                            aria-expanded="false">
+                                                            <span
+                                                                class="elementor-toggle-icon elementor-toggle-icon-right"
+                                                                aria-hidden="true">
+                                                                <span class="elementor-toggle-icon-closed"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M15.7222 1.74077L13.1608 1.74077L13.1608 11.8507L2.14577 0.835674L0.335577 2.64587L11.3506 13.6609L1.24067 13.6609L1.24067 16.2223L15.7222 16.2223L15.7222 1.74077Z"
+                                                                            fill="#BDA588"></path>
+                                                                    </svg></span>
+                                                                <span class="elementor-toggle-icon-opened"><svg
+                                                                        xmlns="http://www.w3.org/2000/svg" width="16"
+                                                                        height="17" viewBox="0 0 16 17" fill="none">
+                                                                        <path
+                                                                            d="M1.24077 0.777784L1.24077 3.33921L11.3507 3.33921L0.335675 14.3542L2.14587 16.1644L13.1609 5.1494L13.1609 15.2593L15.7223 15.2593V0.777784H1.24077Z"
+                                                                            fill="white"></path>
+                                                                    </svg></span>
+                                                            </span>
+                                                            <a class="elementor-toggle-title" tabindex="0">RECENT
+                                                                SEARCHES</a>
+                                                        </div>
+
+                                                        <div id="elementor-tab-content-5498"
+                                                            class="elementor-tab-content elementor-clearfix"
+                                                            data-tab="8" role="region"
+                                                            aria-labelledby="elementor-tab-title-5498">
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/apartments-for-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Apartments For Sale
+                                                                            Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/studio-apartments-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Studio Apartments For
+                                                                            Sale Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/one-bedroom-apartments-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">One Bedroom Apartments
+                                                                            Sale Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/two-bedroom-apartments-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Two Bedroom Apartments
+                                                                            Sale Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/three-bedroom-apartments-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Three Bedroom Apartments
+                                                                            Sale Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/four-bedroom-apartments-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Four Bedroom Apartments
+                                                                            Sale Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/off-plan-apartments-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Off Plan Apartments
+                                                                            Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/ready-to-move-apartments-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Ready To Move Apartments
+                                                                            Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/villas-for-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Villas For Sale
+                                                                            Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/duplex-apartments-for-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Duplexes for sale
+                                                                            Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                            <ul id="menu-menu-footer-8"
+                                                                class="elementor-nav-menu sm-vertical">
+                                                                <li
+                                                                    class="menu-item menu-item-type-custom menu-item-object-custom">
+                                                                    <a href="https://danubeproperties.com/penthouses-for-sale-dubai/"
+                                                                        class="elementor-item"><span
+                                                                            class="menu-title">Penthouses For Sale
+                                                                            Dubai</span>
+                                                                    </a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section data-dce-background-color="#222222"
+                            class="elementor-section elementor-top-section elementor-element elementor-element-b5c4c4b elementor-section-stretched elementor-section-content-middle elementor-section-full_width footer-copy-right-section elementor-section-height-default elementor-section-height-default"
+                            data-id="b5c4c4b" data-element_type="section"
+                            data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8fec8fc"
+                                    data-id="8fec8fc" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-cf0c71e elementor-widget elementor-widget-text-editor"
+                                            data-id="cf0c71e" data-element_type="widget"
+                                            data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="elementor-text-editor elementor-clearfix">© 2025 <span
+                                                        style="color: #8a7023">AV Group.</span> All Rights Reserved.
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61a29c4"
+                                    data-id="61a29c4" data-element_type="column"
+                                    data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-2059351 elementor-nav-menu--indicator-none elementor-nav-menu-mobile__align-center elementor-nav-menu__align-right footer-term-menu elementor-nav-menu-tablet__align-center elementor-widget elementor-widget-opal-nav-menu"
+                                            data-id="2059351" data-element_type="widget"
+                                            data-settings="{&quot;layout&quot;:&quot;horizontal&quot;}"
+                                            data-widget_type="opal-nav-menu.default">
+                                            <div class="elementor-widget-container">
+                                                <nav data-subMenusMinWidth="50" data-subMenusMaxWidth="500"
+                                                    class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+                                                    <ul id="menu-footer-banner-menu" class="elementor-nav-menu">
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16263">
+                                                            <a href="term.php"
+                                                                class="elementor-item"><span class="menu-title">Terms
+                                                                    Conditions</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16262">
+                                                            <a href=""
+                                                                class="elementor-item"><span class="menu-title">Cookie
+                                                                    Policy</span></a></li>
+                                                        <li
+                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-16261">
+                                                            <a href=""
+                                                                class="elementor-item"><span class="menu-title">Privacy
+                                                                    Policy</span></a></li>
+                                                    </ul>
+                                                </nav>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    </p>
+                </div>
+            </footer><!-- #colophon -->
+        </div><!-- #page -->
+        <nav id="opal-canvas-menu" class="opal-menu-canvas mp-menu">
+            <div class="mainmenu">
+                <ul id="offcanvas-menu" class="offcanvas-menu menu menu-canvas-default">
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13508">
+                        <a href="#">Projects<i class="fa fa-angle-down"></i></a>
+                        <ul class="sub-menu">
+                            <li
+                                class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17136">
+                                <a href="#">Latest Launches<i class="fa fa-angle-down"></i></a>
+                                <ul class="sub-menu">
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29103">
+                                        <a href="https://danubeproperties.com/portfolio/bayz102/">Bayz 102</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29104">
+                                        <a href="https://danubeproperties.com/portfolio/oasiz/">Oasiz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-29836">
+                                        <a href="https://danubeproperties.com/portfolio/oasiz2/">Oasiz 2</a></li>
+                                </ul>
+                            </li>
+                            <li
+                                class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13513">
+                                <a href="#">Ongoing Projects<i class="fa fa-angle-down"></i></a>
+                                <ul class="sub-menu">
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-20196">
+                                        <a href="https://danubeproperties.com/portfolio/diamondz/">DIAMONDZ</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-14970">
+                                        <a href="https://danubeproperties.com/portfolio/bayz101/">BAYZ101</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15495">
+                                        <a href="https://danubeproperties.com/portfolio/sportz/">SPORTZ</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15498">
+                                        <a href="https://danubeproperties.com/portfolio/oceanz/">OCEANZ</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16119">
+                                        <a href="https://danubeproperties.com/portfolio/elitz-3/">ELITZ 3</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16972">
+                                        <a href="https://danubeproperties.com/portfolio/elitz-2/">Elitz 2</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15496">
+                                        <a href="https://danubeproperties.com/portfolio/fashionz/">FASHIONZ</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16957">
+                                        <a href="https://danubeproperties.com/portfolio/viewz/">Viewz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16971">
+                                        <a href="https://danubeproperties.com/portfolio/elitz/">Elitz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16961">
+                                        <a href="https://danubeproperties.com/portfolio/petalz/">Petalz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16963">
+                                        <a href="https://danubeproperties.com/portfolio/opalz/">Opalz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16974">
+                                        <a href="https://danubeproperties.com/portfolio/gemz/">Gemz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16959">
+                                        <a href="https://danubeproperties.com/portfolio/skyz/">Skyz</a></li>
+                                </ul>
+                            </li>
+                            <li
+                                class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13557">
+                                <a href="#">Completed Projects<i class="fa fa-angle-down"></i></a>
+                                <ul class="sub-menu">
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16962">
+                                        <a href="https://danubeproperties.com/portfolio/pearlz/">Pearlz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16967">
+                                        <a href="https://danubeproperties.com/portfolio/jewelz/">Jewelz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16956">
+                                        <a href="https://danubeproperties.com/portfolio/wavez/">Wavez</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-15497">
+                                        <a href="https://danubeproperties.com/portfolio/eleganz/">Eleganz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16964">
+                                        <a href="https://danubeproperties.com/portfolio/olivz/">Olivz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16973">
+                                        <a href="https://danubeproperties.com/portfolio/elz/">Elz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16966">
+                                        <a href="https://danubeproperties.com/portfolio/lawnz/">Lawnz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-18766">
+                                        <a href="https://danubeproperties.com/portfolio/bayz/">Bayz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16965">
+                                        <a href="https://danubeproperties.com/portfolio/miraclz/">Miraclz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16960">
+                                        <a href="https://danubeproperties.com/portfolio/resortz/">Resortz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16975">
+                                        <a href="https://danubeproperties.com/portfolio/glamz/">Glamz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16958">
+                                        <a href="https://danubeproperties.com/portfolio/starz/">Starz</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16968">
+                                        <a href="https://danubeproperties.com/portfolio/glitz-3/">Glitz 3</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16969">
+                                        <a href="https://danubeproperties.com/portfolio/glitz-2/">Glitz 2</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16970">
+                                        <a href="https://danubeproperties.com/portfolio/glitz-1/">Glitz 1</a></li>
+                                    <li
+                                        class="menu-item menu-item-type-post_type menu-item-object-osf_portfolio menu-item-16120">
+                                        <a href="https://danubeproperties.com/portfolio/dreamz/">Dreamz</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13539">
+                        <a href="#">Danube Assist<i class="fa fa-angle-down"></i></a>
+                        <ul class="sub-menu">
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17359"><a
+                                    href="https://danubeproperties.com/1-payment-plan/">1% Payment Plan</a></li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65801"><a
+                                    href="https://maps.danubeproperties.com/">Danube Map</a></li>
+                            <li
+                                class="sub-menu-has-menu menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13543">
+                                <a href="#">broker portal<i class="fa fa-angle-down"></i></a>
+                                <ul class="sub-menu">
+                                    <li
+                                        class="register-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13544">
+                                        <a target="_blank" rel="noopener"
+                                            href="https://danubeproperties.my.site.com/BrokerAgencyRegistration/s/">Register</a>
+                                    </li>
+                                    <li
+                                        class="sign-in-button menu-item menu-item-type-custom menu-item-object-custom menu-item-13545">
+                                        <a target="_blank" rel="noopener"
+                                            href="https://danubeproperties.my.salesforce.com/?locale=eu">Login</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19448">
+                        <a href="https://danubeproperties.com/about-us/">About us<i class="fa fa-angle-down"></i></a>
+                        <ul class="sub-menu">
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19449"><a
+                                    href="https://danubeproperties.com/about-us/">Company Profile</a></li>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16070"><a
+                                    href="https://danubeproperties.com/about-us/leadership-team/">Leadership team</a>
+                            </li>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16071"><a
+                                    href="https://danubeproperties.com/about-us/management-team/">Management team</a>
+                            </li>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16072"><a
+                                    href="https://danubeproperties.com/about-us/our-journey/">Our journey</a></li>
+                        </ul>
+                    </li>
+                    <li
+                        class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-17474">
+                        <a href="#">Media<i class="fa fa-angle-down"></i></a>
+                        <ul class="sub-menu">
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16260"><a
+                                    href="https://danubeproperties.com/news/">News</a></li>
+                            <li
+                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16241 current_page_item menu-item-16259">
+                                <a href="image/1LOGOS.PNG" aria-current="page">Video</a></li>
+                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20029"><a
+                                    href="">3D TOURS</a></li>
+                        </ul>
+                    </li>
+                    <li
+                        class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-10-en">
+                        <a title="EN" href="image/1LOGOS.PNG"><span class="wpml-ls-native" lang="en">EN</span><i
+                                class="fa fa-angle-down"></i></a>
+                        <ul class="sub-menu">
+                            <li
+                                class="menu-item wpml-ls-slot-10 wpml-ls-item wpml-ls-item-ar wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-10-ar">
+                                <a title="العربية" href=""><span
+                                        class="wpml-ls-native" lang="ar">العربية</span></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div><!-- end.opal-wrapper-->
+    <style>
+    .scLangSelector {
+        display: none !important;
+    }
+    </style>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script async>
+    $(document).ready(function() {
+        if (document.documentElement.lang == 'en' || document.documentElement.lang == 'en-US') {
+            // Define image URLs
+            const avatarImageUrl =
+                "//danubeproperties.com/wp-content/uploads/2024/10/botavatar-ezgif.com-crop.gif";
+            const closeIcon = "✖"; // Close icon (X)
+
+            // Create and apply styles
+            const style = `
+            #chatButton {
+                position: fixed; bottom: 20px; right: 20px; 
+                background: transparent; border: none; 
+                border-radius: 50%; width: 100px; height: 100px; 
+                cursor: pointer; z-index: 1000;
+                display: flex; 
+                flex-direction: column; 
+                justify-content: center; 
+                align-items: center;
+                color: #BDA588;
+            }
+            #chatButton img {
+                max-width: 100%; /* Ensure the image doesn't exceed the button's width */
+                max-height: 100%; /* Ensure the image doesn't exceed the button's height */
+                border-radius: 50%; 
+                border: 1px solid #BDA588;
+            }
+            #chatName {
+                font-size: 14px; 
+                color: #BDA588; 
+                margin-top: 5px; 
+                text-align: center; 
+            }
+            #chatWindow {
+                display: none; position: fixed; bottom: 80px; right: 20px; 
+                max-width: 90%; width: 400px; height:80%; 
+                border: 1px solid #ccc; border-radius: 8px; 
+                box-shadow: 0 0 10px rgba(0,0,0,0.2); 
+                z-index: 1000; background: white;
+            }
+            #closeButton {
+                position: absolute; top: 10px; left: 10px; 
+                background: transparent; border: none; 
+                font-size: 18px; color: #BDA588; 
+                cursor: pointer; z-index: 1001;
+            }
+            #chatIframe {
+                width: 100%; height: calc(100% - 40px); border: none; border-radius: 8px;
+            }
+            @media (max-width: 767px) {
+                #chatWindow { height: 80%; bottom: 150px; }
+                #chatButton { bottom: 8%; right: 15px; width: 75px; height: 75px; }
+            }
+        `;
+            $("<style>").text(style).appendTo("head");
+
+            // Create chat button and window
+            const button = $("<button>", {
+                id: "chatButton"
+            });
+            const img = $("<img>", {
+                src: avatarImageUrl,
+                alt: "Virtual Assistant"
+            });
+            const nameLabel = $("<div>", {
+                id: "chatName",
+                text: "Aisha"
+            });
+
+            button.append(img).append(nameLabel);
+            $("body").append(button);
+
+            const windowDiv = $("<div>", {
+                id: "chatWindow"
+            });
+            const closeButton = $("<button>", {
+                id: "closeButton",
+                text: closeIcon
+            });
+            windowDiv.append(closeButton);
+            windowDiv.append(
+                `<iframe id="chatIframe" src="https://webapp-dpdchatbot-prod-uaen.azurewebsites.net/"></iframe>`
+                );
+
+            $("body").append(windowDiv);
+
+
+            // Toggle chat window and change button image
+            button.on("click", function() {
+                if (windowDiv.is(":visible")) {
+                    windowDiv.hide();
+                    img.attr("src", avatarImageUrl); // Reset to avatar image
+                    button.html("").append(img).append(nameLabel); // Re-add the avatar image and name
+                } else {
+                    windowDiv.show();
+                    img.attr("src", ""); // Remove image
+                    button.html(closeIcon); // Change to close icon
+                }
+            });
+
+            // Close chat window when close button is clicked
+            closeButton.on("click", function() {
+                windowDiv.hide();
+                img.attr("src", avatarImageUrl); // Reset to avatar image
+                button.html("").append(img).append(nameLabel); // Re-add the avatar image and name
+            });
+
+        } //end language check
+    });
+    </script>
+    <script>
+    $(document).on('click', 'a[href^="#callus"]', function(event) {
+        event.preventDefault();
+
+        $('html, body').animate({
+            scrollTop: $($.attr(this, 'href')).offset().top
+        }, 500);
+    });
+
+    //new langauge code 
+    var c_lang;
+    $(document).ready(function() {
+        // Function to dynamically add the Smartcat language selector to WPML menu
+        function appendSmartcatLanguageSelector() {
+            // Create the new <li> element
+            var newLi = $('<li>', {
+                'class': 'wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-scLangSelector'
+            });
+
+            // Create the <div> with class 'scLangSelector' and append it inside the new <li>
+            var newDiv = $('<div>', {
+                'class': 'scLangSelector',
+                'html': '<span>Select Language</span>' // Customize this content if needed
+            });
+
+            // Append the <div> to the <li>
+            newLi.append(newDiv);
+
+            // Append the <li> to the <ul> inside the wpml-ls-statics-shortcode_actions div
+            $('.wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu').append(newLi);
+        }
+
+        // Check if the widget is visible and append languages to WPML menu
+        function checkForWidgetAndAppend() {
+            if ($('.scLangPanel.visible').length > 0) {
+                var thirdPartyLanguages = $('.scLangPanel.visible .scLangItem');
+                //  console.log("thirdPartyLanguages : " + thirdPartyLanguages.length);
+
+                if (thirdPartyLanguages.length > 0) {
+                    thirdPartyLanguages.each(function() {
+                        var languageItem = $(this);
+                        var newLanguageItem = $('<li class="wpml-ls-item"></li>');
+                        var languageLink = $('<a class="wpml-ls-link" href="#"></a>');
+                        languageLink.text(languageItem.text().trim());
+                        newLanguageItem.append(languageLink);
+                        $('.wpml-ls-menu ul').append(newLanguageItem);
+                    });
+
+                    $('.scLangPanel').addClass('hidden');
+                    console.log('Languages successfully appended to WPML menu');
+                }
+            } else {
+                setTimeout(checkForWidgetAndAppend, 500);
+            }
+        }
+
+        appendSmartcatLanguageSelector();
+        checkForWidgetAndAppend();
+
+        // Function to handle adding the "Back to English" option dynamically
+        function handleLanguageSwitching() {
+            var baseURL = window.location.origin + window.location.pathname; // Base URL without query string
+            //  var currentLang = new URLSearchParams(window.location.search).get('scLang'); // Get current language from URL
+            var currentLang = document.documentElement.lang;
+            c_lang = currentLang;
+            console.log("currentLang: " + currentLang);
+
+            // Remove any previous language items to avoid duplicates
+            $('.wpml-ls-menu li.wpml-ls-item-en, .wpml-ls-menu li.wpml-ls-item-ru').remove();
+
+            if (currentLang == 'en' || currentLang == 'en-US' || currentLang == null) {
+                console.log("inside en: " + currentLang);
+                var russianItem = $('<li class="wpml-ls-item wpml-ls-item-ru">').append('<a href="' + baseURL +
+                    '?scLang=ru" class="wpml-ls-link"> русский </a>');
+                var frenchItem = $('<li class="wpml-ls-item wpml-ls-item-fr">').append('<a href="' + baseURL +
+                    '?scLang=fr" class="wpml-ls-link"> French </a>');
+                // Append Russian link to the sub-menu
+                $('.wpml-ls-sub-menu').append(russianItem);
+                $('.wpml-ls-sub-menu').append(frenchItem);
+                $('.wpml-ls-item-toggle span.wpml-ls-native').text("EN"); //newly added
+                //append on mobile   
+                //$('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append('<li class=""><a title="RU" href="https://danubeproperties.com?scLang=ru" class="elementor-sub-item wpml-ls-native" lang="ru"> русский </a></li>');
+            } else if (currentLang == 'ru') {
+                console.log("inside ru: " + currentLang);
+                var englishItem = $('<li class="wpml-ls-item wpml-ls-item-en">')
+                    .append('<a href="' + baseURL + '?scLang=en" class="wpml-ls-link"> English </a>');
+                var frenchItem = $('<li class="wpml-ls-item wpml-ls-item-fr">').append('<a href="' + baseURL +
+                    '?scLang=fr" class="wpml-ls-link"> French </a>');
+
+                // Append English link to the sub-menu
+                $('.wpml-ls-sub-menu').append(englishItem);
+                $('.wpml-ls-sub-menu').append(frenchItem);
+                $('.wpml-ls-item-toggle span.wpml-ls-native').text("RU"); //newely added 
+                //append on mobile   
+                //$('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append('<li class=""><a title="EN" href="https://danubeproperties.com?scLang=en" class="wpml-ls-native" lang="en" > English </a></li>');
+            } else if (currentLang == 'fr') {
+                console.log("inside fr: " + currentLang);
+                var englishItem = $('<li class="wpml-ls-item wpml-ls-item-en">')
+                    .append('<a href="' + baseURL + '?scLang=en" class="wpml-ls-link"> English </a>');
+                var russianItem = $('<li class="wpml-ls-item wpml-ls-item-ru">').append('<a href="' + baseURL +
+                    '?scLang=ru" class="wpml-ls-link"> русский </a>');
+
+                // Append English link to the sub-menu
+                $('.wpml-ls-sub-menu').append(englishItem);
+                $('.wpml-ls-sub-menu').append(russianItem);
+                $('.wpml-ls-item-toggle span.wpml-ls-native').text("FR"); //newely added 
+                //append on mobile   
+                //$('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append('<li class=""><a title="EN" href="https://danubeproperties.com?scLang=en" class="wpml-ls-native" lang="en" > English </a></li>');
+            }
+
+            // Optionally hide a custom selector if needed
+            $('.scLangSelector').hide();
+        }
+
+        // Call the function to handle language switching
+        handleLanguageSwitching();
+    });
+
+    $(document).ready(function() {
+        // Bind the click event to the menu toggle button
+        $('.elementor-menu-toggle').on('click', function() {
+            console.log("Menu toggle clicked");
+            console.log("Comm Lang: " + document.documentElement.lang);
+
+            //setTimeout(function() {
+            $('nav .menu-item-has-children a.has-submenu ').attr("href", "#!");
+            // $('nav .menu-item-has-children.wpml-ls-current-language a ').text(document.documentElement.lang);
+            if (document.documentElement.lang === 'en' || document.documentElement.lang === 'en-US' ||
+                document.documentElement.lang === null) {
+                console.log("EN Lang: " + document.documentElement.lang);
+
+                // Change the language indicator to "EN"
+                $('nav .menu-item-has-children.wpml-ls-current-language a.has-submenu span.wpml-ls-native')
+                    .text("EN");
+
+                // Check if the Russian language option already exists
+                if ($(
+                        'nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown li a[lang="ru"]')
+                    .length === 0) {
+                    // Append the Russian language option if it doesn't exist
+                    $('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append(
+                        '<li><a title="RU" href="https://danubeproperties.com?scLang=ru" class="wpml-ls-native" lang="ru">русский</a></li>'
+                        );
+                }
+                // Check if the Russian language option already exists
+                if ($(
+                        'nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown li a[lang="fr"]')
+                    .length === 0) {
+                    // Append the Russian language option if it doesn't exist
+                    $('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append(
+                        '<li><a title="FR" href="https://danubeproperties.com?scLang=fr" class="wpml-ls-native" lang="fr">French</a></li>'
+                        );
+                }
+            } else if (document.documentElement.lang === 'ru') {
+                console.log("Lang: " + document.documentElement.lang);
+
+                // Change the language indicator to "RU"
+                $('nav .menu-item-has-children.wpml-ls-current-language a.has-submenu span.wpml-ls-native')
+                    .text("RU");
+
+                // Check if the English language option already exists
+                if ($(
+                        'nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown li a[lang="en"]')
+                    .length === 0) {
+                    // Append the English language option if it doesn't exist
+                    $('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append(
+                        '<li><a title="EN" href="https://danubeproperties.com?scLang=en" class="wpml-ls-native" lang="en">English</a></li>'
+                        );
+                }
+                if ($(
+                        'nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown li a[lang="fr"]')
+                    .length === 0) {
+                    // Append the Russian language option if it doesn't exist
+                    $('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append(
+                        '<li><a title="FR" href="https://danubeproperties.com?scLang=fr" class="wpml-ls-native" lang="fr">French</a></li>'
+                        );
+                }
+            } else if (document.documentElement.lang === 'fr') {
+                console.log("Lang: " + document.documentElement.lang);
+
+                // Change the language indicator to "RU"
+                $('nav .menu-item-has-children.wpml-ls-current-language a.has-submenu span.wpml-ls-native')
+                    .text("FR");
+
+                // Check if the English language option already exists
+                if ($(
+                        'nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown li a[lang="en"]')
+                    .length === 0) {
+                    // Append the English language option if it doesn't exist
+                    $('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append(
+                        '<li><a title="EN" href="https://danubeproperties.com?scLang=en" class="wpml-ls-native" lang="en">English</a></li>'
+                        );
+                }
+                if ($(
+                        'nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown li a[lang="ru"]')
+                    .length === 0) {
+                    // Append the Russian language option if it doesn't exist
+                    $('nav .menu-item.wpml-ls-menu-item .sub-menu.elementor-nav-menu--dropdown').append(
+                        '<li><a title="RU" href="https://danubeproperties.com?scLang=ru" class="wpml-ls-native" lang="ru">русский</a></li>'
+                        );
+                }
+            }
+
+            //}, 3000); // Delay for 1 second (adjust as necessary)
+        });
+    });
+    </script>
+    <div id="popup-container" class="hubspot-popup-form">
+        <div id="popup-content">
+            <span class="close">&times;</span>
+            <h4 class="hubspot-get-in-touch-title">Get in Touch</h4>
+            <div class="hbspt-form" id="hbspt-form"></div>
+            <script type="text/javascript" async defer src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+        </div>
+    </div>
+
+    <script type='text/javascript'>
+    const lazyloadRunObserver = () => {
+        const lazyloadBackgrounds = document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
+        const lazyloadBackgroundObserver = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+                if (entry.isIntersecting) {
+                    let lazyloadBackground = entry.target;
+                    if (lazyloadBackground) {
+                        lazyloadBackground.classList.add('e-lazyloaded');
+                    }
+                    lazyloadBackgroundObserver.unobserve(entry.target);
+                }
+            });
+        }, {
+            rootMargin: '200px 0px 200px 0px'
+        });
+        lazyloadBackgrounds.forEach((lazyloadBackground) => {
+            lazyloadBackgroundObserver.observe(lazyloadBackground);
+        });
+    };
+    const events = [
+        'DOMContentLoaded',
+        'elementor/lazyload/observe',
+    ];
+    events.forEach((event) => {
+        document.addEventListener(event, lazyloadRunObserver);
+    });
+    </script>
+    <link rel='stylesheet' id='elementor-post-26719-css'
+        href='https://danubeproperties.com/wp-content/uploads/elementor/css/post-26719.css?ver=1733837461'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-toggle-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-text-editor-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='widget-social-icons-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='e-apple-webkit-css'
+        href='https://danubeproperties.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.25.11'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='magnific-popup-css'
+        href='https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/css/magnific-popup.css?ver=c699755984206a2cda91ccec8fd5a944'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='osf-elementor-addons-css'
+        href='https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/css/elementor/style.css?ver=2.4.8'
+        type='text/css' media='all' />
+    <link rel='stylesheet' id='tooltipster-bundle-css'
+        href='https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/css/tooltipster.bundle.min.css?ver=2.4.8'
+        type='text/css' media='all' />
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1"
+        id="smartmenus-js"></script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js?ver=1.19.3"
+        id="jquery-validation-js"></script>
+    <script type="text/javascript" id="eae-main-js-extra">
+    /* <![CDATA[ */
+    var eae = {
+        "ajaxurl": "https:\/\/danubeproperties.com\/wp-admin\/admin-ajax.php",
+        "current_url": "aHR0cHM6Ly9kYW51YmVwcm9wZXJ0aWVzLmNvbS92aWRlby1nYWxsZXJ5Lw==",
+        "nonce": "f7b8c5dd7a",
+        "plugin_url": "https:\/\/danubeproperties.com\/wp-content\/plugins\/addon-elements-for-elementor-page-builder\/"
+    };
+    var eae_editor = {
+        "plugin_url": "https:\/\/danubeproperties.com\/wp-content\/plugins\/addon-elements-for-elementor-page-builder\/"
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/addon-elements-for-elementor-page-builder/assets/js/eae.min.js?ver=1.13.10"
+        id="eae-main-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/addon-elements-for-elementor-page-builder/build/index.min.js?ver=1.13.10"
+        id="eae-index-js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+        id="jspdf-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes-child/assets/js/bootstrap.bundle.min.js?ver=3.7.1"
+        id="danube-bootstrap-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes-child/assets/js/slick.min.js?ver=1.9.0"
+        id="danube-slick-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes-child/assets/js/slick-lightbox.js?ver=1.0.0"
+        id="danube-slick-lightbox-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes-child/assets/js/custom.js?ver=515997196"
+        id="danube-custom-js"></script>
+    <script type="text/javascript" id="rehomes-theme-js-js-extra">
+    /* <![CDATA[ */
+    var osfAjax = {
+        "ajaxurl": "https:\/\/danubeproperties.com\/wp-admin\/admin-ajax.php"
+    };
+    var poemeJS = {
+        "quote": "<i class=\"fa-quote-right\"><\/i>",
+        "smoothCallback": "",
+        "expand": "Expand child menu",
+        "collapse": "Collapse child menu",
+        "icon": "<i class=\"fa fa-angle-down\"><\/i>"
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/theme.js?ver=1.0"
+        id="rehomes-theme-js-js"></script>
+    <script type="text/javascript" src="https://danubeproperties.com/wp-includes/js/underscore.min.js?ver=1.13.4"
+        id="underscore-js"></script>
+    <script type="text/javascript" id="wp-util-js-extra">
+    /* <![CDATA[ */
+    var _wpUtilSettings = {
+        "ajax": {
+            "url": "\/wp-admin\/admin-ajax.php"
+        }
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/wp-util.min.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="wp-util-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/sticky-layout.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="rehomes-theme-sticky-layout-js-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/libs/mlpushmenu.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="pushmenu-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/libs/classie.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="pushmenu-classie-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/themes/rehomes/assets/js/navigation.js?ver=1.0"
+        id="rehomes-navigation-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=1.0"
+        id="font-awesome-4-shim-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.22.0"
+        id="elementor-pro-webpack-runtime-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.25.11"
+        id="elementor-webpack-runtime-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.25.11"
+        id="elementor-frontend-modules-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"
+        id="wp-polyfill-inert-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0"
+        id="regenerator-runtime-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js">
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js">
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js">
+    </script>
+    <script type="text/javascript" id="wp-i18n-js-after">
+    /* <![CDATA[ */
+    wp.i18n.setLocaleData({
+        'text direction\u0004ltr': ['ltr']
+    });
+    /* ]]> */
+    </script>
+    <script type="text/javascript" id="elementor-pro-frontend-js-before">
+    /* <![CDATA[ */
+    var ElementorProFrontendConfig = {
+        "ajaxurl": "https:\/\/danubeproperties.com\/wp-admin\/admin-ajax.php",
+        "nonce": "3804fb8fa9",
+        "urls": {
+            "assets": "https:\/\/danubeproperties.com\/wp-content\/plugins\/elementor-pro\/assets\/",
+            "rest": "https:\/\/danubeproperties.com\/wp-json\/"
+        },
+        "shareButtonsNetworks": {
+            "facebook": {
+                "title": "Facebook",
+                "has_counter": true
+            },
+            "twitter": {
+                "title": "Twitter"
+            },
+            "linkedin": {
+                "title": "LinkedIn",
+                "has_counter": true
+            },
+            "pinterest": {
+                "title": "Pinterest",
+                "has_counter": true
+            },
+            "reddit": {
+                "title": "Reddit",
+                "has_counter": true
+            },
+            "vk": {
+                "title": "VK",
+                "has_counter": true
+            },
+            "odnoklassniki": {
+                "title": "OK",
+                "has_counter": true
+            },
+            "tumblr": {
+                "title": "Tumblr"
+            },
+            "digg": {
+                "title": "Digg"
+            },
+            "skype": {
+                "title": "Skype"
+            },
+            "stumbleupon": {
+                "title": "StumbleUpon",
+                "has_counter": true
+            },
+            "mix": {
+                "title": "Mix"
+            },
+            "telegram": {
+                "title": "Telegram"
+            },
+            "pocket": {
+                "title": "Pocket",
+                "has_counter": true
+            },
+            "xing": {
+                "title": "XING",
+                "has_counter": true
+            },
+            "whatsapp": {
+                "title": "WhatsApp"
+            },
+            "email": {
+                "title": "Email"
+            },
+            "print": {
+                "title": "Print"
+            },
+            "x-twitter": {
+                "title": "X"
+            },
+            "threads": {
+                "title": "Threads"
+            }
+        },
+        "facebook_sdk": {
+            "lang": "en_US",
+            "app_id": ""
+        },
+        "lottie": {
+            "defaultAnimationUrl": "https:\/\/danubeproperties.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"
+        }
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.22.0"
+        id="elementor-pro-frontend-js"></script>
+    <script type="text/javascript" src="https://danubeproperties.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2"
+        id="jquery-ui-core-js"></script>
+    <script type="text/javascript" id="elementor-frontend-js-before">
+    /* <![CDATA[ */
+    var elementorFrontendConfig = {
+        "environmentMode": {
+            "edit": false,
+            "wpPreview": false,
+            "isScriptDebug": false
+        },
+        "i18n": {
+            "shareOnFacebook": "Share on Facebook",
+            "shareOnTwitter": "Share on Twitter",
+            "pinIt": "Pin it",
+            "download": "Download",
+            "downloadImage": "Download image",
+            "fullscreen": "Fullscreen",
+            "zoom": "Zoom",
+            "share": "Share",
+            "playVideo": "Play Video",
+            "previous": "Previous",
+            "next": "Next",
+            "close": "Close",
+            "a11yCarouselWrapperAriaLabel": "Carousel | Horizontal scrolling: Arrow Left & Right",
+            "a11yCarouselPrevSlideMessage": "Previous slide",
+            "a11yCarouselNextSlideMessage": "Next slide",
+            "a11yCarouselFirstSlideMessage": "This is the first slide",
+            "a11yCarouselLastSlideMessage": "This is the last slide",
+            "a11yCarouselPaginationBulletMessage": "Go to slide"
+        },
+        "is_rtl": false,
+        "breakpoints": {
+            "xs": 0,
+            "sm": 480,
+            "md": 768,
+            "lg": 1025,
+            "xl": 1440,
+            "xxl": 1600
+        },
+        "responsive": {
+            "breakpoints": {
+                "mobile": {
+                    "label": "Mobile Portrait",
+                    "value": 767,
+                    "default_value": 767,
+                    "direction": "max",
+                    "is_enabled": true
+                },
+                "mobile_extra": {
+                    "label": "Mobile Landscape",
+                    "value": 880,
+                    "default_value": 880,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "tablet": {
+                    "label": "Tablet Portrait",
+                    "value": 1024,
+                    "default_value": 1024,
+                    "direction": "max",
+                    "is_enabled": true
+                },
+                "tablet_extra": {
+                    "label": "Tablet Landscape",
+                    "value": 1200,
+                    "default_value": 1200,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "laptop": {
+                    "label": "Laptop",
+                    "value": 1366,
+                    "default_value": 1366,
+                    "direction": "max",
+                    "is_enabled": false
+                },
+                "widescreen": {
+                    "label": "Widescreen",
+                    "value": 2400,
+                    "default_value": 2400,
+                    "direction": "min",
+                    "is_enabled": false
+                }
+            },
+            "hasCustomBreakpoints": false
+        },
+        "version": "3.25.11",
+        "is_static": false,
+        "experimentalFeatures": {
+            "e_font_icon_svg": true,
+            "additional_custom_breakpoints": true,
+            "container": true,
+            "e_swiper_latest": true,
+            "e_nested_atomic_repeaters": true,
+            "e_optimized_control_loading": true,
+            "e_onboarding": true,
+            "e_css_smooth_scroll": true,
+            "theme_builder_v2": true,
+            "home_screen": true,
+            "landing-pages": true,
+            "nested-elements": true,
+            "editor_v2": true,
+            "link-in-bio": true,
+            "floating-buttons": true,
+            "display-conditions": true,
+            "form-submissions": true,
+            "taxonomy-filter": true
+        },
+        "urls": {
+            "assets": "https:\/\/danubeproperties.com\/wp-content\/plugins\/elementor\/assets\/",
+            "ajaxurl": "https:\/\/danubeproperties.com\/wp-admin\/admin-ajax.php",
+            "uploadUrl": "https:\/\/danubeproperties.com\/wp-content\/uploads"
+        },
+        "nonces": {
+            "floatingButtonsClickTracking": "c4faa063d8"
+        },
+        "swiperClass": "swiper",
+        "settings": {
+            "page": [],
+            "editorPreferences": [],
+            "dynamicooo": []
+        },
+        "kit": {
+            "viewport_mobile": 767,
+            "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
+            "global_image_lightbox": "yes",
+            "lightbox_enable_counter": "yes",
+            "lightbox_enable_fullscreen": "yes",
+            "lightbox_enable_zoom": "yes",
+            "lightbox_enable_share": "yes",
+            "lightbox_title_src": "title",
+            "lightbox_description_src": "description"
+        },
+        "post": {
+            "id": 16241,
+            "title": "Video%20Gallery%20-%20Danube%20Properties",
+            "excerpt": "",
+            "featuredImage": false
+        }
+    };
+    /* ]]> */
+    </script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.25.11"
+        id="elementor-frontend-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.22.0"
+        id="pro-elements-handlers-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/jquery.magnific-popup.min.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="magnific-popup-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/mousefollower.js?ver=2.4.8"
+        id="mousefollower-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/jquery-parallax.js?ver=2.4.8"
+        id="parallaxmouse-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/progressbar.min.js?ver=2.4.8"
+        id="progressbar-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/TweenMax.min.js?ver=2.4.8"
+        id="tweenmax-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/libs/tooltipster.bundle.min.js?ver=2.4.8"
+        id="tooltipster-bundle-js-js"></script>
+    <script type="text/javascript"
+        src="https://danubeproperties.com/wp-content/plugins/rehomes-core/assets/js/elementor/frontend.js?ver=c699755984206a2cda91ccec8fd5a944"
+        id="opal-elementor-frontend-js"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    // $(ddwewd).val();
+    jQuery(document).ready(function($) {
+
+        // When user lands on Property Page
+        if ($('body').hasClass('single-osf_portfolio')) {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'propertyViewed',
+                'propertyID': '16241',
+                'propertyName': 'Video Gallery',
+                'propertyType': '',
+                'propertyPrice': '',
+                'propertyLocation': '',
+                'currency': 'AED',
+                'pageURL': window.location.href
+            });
+        }
+
+        // When user clicks on "ENQUIRE NOW"
+        $(document).on('click', '.downlaod-enquire-sticky a, .enquire-button a', function(event) {
+            window.dataLayer = window.dataLayer || [];
+
+            window.dataLayer.push({
+                'event': 'enquire_now',
+                'propertyID': '16241',
+                'propertyName': 'Video Gallery',
+                'propertyType': '',
+                'propertyPrice': '',
+                'propertyLocation': '',
+                'currency': 'AED',
+                'pageURL': window.location.href
+            });
+        });
+
+
+        // When a user scrolls down 25% of the page.
+        var scrollTracked = {
+            '25': false,
+            '50': false,
+            '90': false
+        };
+        $(window).on('scroll', function() {
+            var scrollDepth = Math.round(($(window).scrollTop() + $(window).height()) / $(document)
+                .height() * 100);
+
+            if (scrollDepth >= 25 && !scrollTracked['25']) {
+                window.dataLayer.push({
+                    'event': 'scroll_25',
+                    'scrollDepth': scrollDepth + '%',
+                    'pageURL': window.location.href
+                });
+                scrollTracked['25'] = true;
+            }
+            if (scrollDepth >= 50 && !scrollTracked['50']) {
+                window.dataLayer.push({
+                    'event': 'scroll_50',
+                    'scrollDepth': scrollDepth + '%',
+                    'pageURL': window.location.href
+                });
+                scrollTracked['50'] = true;
+            }
+            if (scrollDepth >= 90 && !scrollTracked['90']) {
+                window.dataLayer.push({
+                    'event': 'scroll_90',
+                    'scrollDepth': scrollDepth + '%',
+                    'pageURL': window.location.href
+                });
+                scrollTracked['90'] = true;
+            }
+        });
+
+
+        // When user downloads the Brochure
+        $(document).on('submit_success', function(evt) {
+            if ($(evt.target).attr('id') === 'downloadform') {
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'event': 'inquiry_downloadBrochure',
+                    'propertyID': '16241',
+                    'propertyName': 'Video Gallery',
+                    'propertyType': '',
+                    'propertyPrice': '',
+                    'propertyLocation': '',
+                    'currency': 'AED',
+                    'pdfUrl': '',
+                });
+
+                var pdfUrl = '';
+                if (pdfUrl) {
+                    // Open the PDF in a new tab
+                    window.open(pdfUrl, '_blank');
+                }
+            }
+        });
+
+
+        // for single property page on whatsapp
+        $('.whatsapp-sticky, .whatsapp-menu').on('click', function() {
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'button_click_whatsapp',
+                'propertyID': '16241',
+                'propertyName': 'Video Gallery',
+                'propertyType': '',
+                'propertyPrice': '',
+                'propertyLocation': '',
+                'currency': 'AED',
+                'pageURL': window.location.href
+            });
+        });
+
+
+        // For All Video
+        $('video[autoplay]').each(function() {
+            var videoElement = this;
+            var $video = $(this);
+            var videoDuration = Math.round(videoElement.duration);
+            var videoProvider = $(this).find('source').attr('type') || 'Video';
+            var videoTitle = $(this).attr('title') || 'Unknown Title';
+            var videoURL = $(this).find('source').attr('src');
+            var milestones = [25, 50, 75, 100];
+            var trackedPercentages = []; // To track which milestones have been reached
+            var event;
+            var percent;
+
+            // Check if the video Start is already playing when the page loads
+            if (!videoElement.paused) {
+                pushAutoplayEvent(videoElement);
+                return false;
+            }
+
+            // Listen for the play event (in case autoplay is delayed or starts later)
+            $(videoElement).on('play', function() {
+                pushAutoplayEvent(videoElement);
+            });
+
+            function pushAutoplayEvent(video) {
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'event': 'video_start',
+                    'video_provider': videoProvider,
+                    'video_title': videoTitle,
+                    'video_url': videoURL,
+                    'video_duration': videoDuration
+                });
+
+                // Remove event listener after first push to prevent multiple triggers
+                $(video).off('play');
+            }
+
+
+
+            // Function to push video progress and complete to the dataLayer
+            function pushVideoProgressEvent(percent) {
+                window.dataLayer = window.dataLayer || [];
+                if (percent == 100) {
+                    percent = 100;
+                    event = 'video_complete';
+                } else {
+                    percent = percent;
+                    event = 'video_progress';
+                }
+
+                window.dataLayer.push({
+                    'event': event,
+                    'video_provider': videoProvider, // Adjust if using other video providers
+                    'video_title': videoTitle,
+                    'video_url': videoURL,
+                    'video_duration': videoDuration, // Total duration in seconds
+                    'video_percent': percent // Percentage of video played
+                });
+            }
+
+            // Track progress and push to dataLayer
+            $video.on('timeupdate', function() {
+                var currentTime = videoElement.currentTime;
+                var duration = videoElement.duration;
+                var percent = Math.round((currentTime / duration) * 100);
+
+                // Check if the current percentage reaches any of the milestones
+                milestones.forEach(function(milestone) {
+                    if (percent >= milestone && !trackedPercentages.includes(
+                        milestone)) {
+                        pushVideoProgressEvent(milestone);
+                        trackedPercentages.push(milestone);
+                    }
+                });
+            });
+        });
+
+        // When a user fills out the "Any filled field" field in a form
+        $(document).one('blur', 'input, textarea, select, email, .hbspt-form input[name="phone"]', function() {
+            var filledval = $(this).val();
+            var filledvalform = $(this).parents('form').attr('id');
+            if (filledvalform == 'downloadform') {
+                var formType = "Brochure Download Form";
+            } else {
+                var formType = "Inquiry Form";
+            }
+            if (filledval.length > 0) {
+                dataLayer.push({
+                    'event': 'form_start',
+                    'formType': formType,
+                    'propertyID': '16241',
+                    'propertyName': 'Video Gallery',
+                    'pageURL': window.location.href
+                });
+            }
+        });
+
+
+        // When a user fills out the "First Name" field in a form
+        $(document).one('blur', '.hbspt-form input[name="firstname"], #downloadform input[type="text"]',
+            function(event) {
+                var filledvalform = $(this).parents('form').attr('id');
+                if (filledvalform == 'downloadform') {
+                    var formType = "Brochure Download Form";
+                } else {
+                    var formType = "Inquiry Form";
+                }
+                var firstName = $(this).val();
+
+                if (firstName.length > 0) {
+                    dataLayer.push({
+                        'event': 'form_field_first_name_filled',
+                        'formType': formType,
+                        'pageURL': window.location.href
+                    });
+                }
+            });
+
+
+        // When a user fills out the "Last Name" field in a form
+        $(document).one('blur', '.hbspt-form input[name="lastname"]', function(event) {
+            var formType = "Inquiry Form";
+            var lastName = $(this).val();
+
+            if (lastName.length > 0) {
+                dataLayer.push({
+                    'event': 'form_field_last_name_filled',
+                    'formType': formType,
+                    'pageURL': window.location.href
+                });
+            }
+        });
+
+
+        // When a user fills out the "Email" field in a form
+        $(document).one('blur', '.hbspt-form input[name="email"], #downloadform input[type="email"]', function(
+            event) {
+            var filledvalform = $(this).parents('form').attr('id');
+            if (filledvalform == 'downloadform') {
+                var formType = "Brochure Download Form";
+            } else {
+                var formType = "Inquiry Form";
+            }
+            var email = $(this).val();
+
+            if (email.length > 0) {
+                dataLayer.push({
+                    'event': 'form_field_email_filled',
+                    'formType': formType,
+                    'pageURL': window.location.href
+                });
+            }
+        });
+
+
+        // When a user fills out the "Phone number" field in a form
+        $(document).one('blur', '.hbspt-form input[name="phone"]', function(event) {
+            var formType = "Inquiry Form";
+            var phone = $(this).val();
+
+            if (phone.length > 0) {
+                dataLayer.push({
+                    'event': 'form_field_phone_number_filled',
+                    'formType': formType,
+                    'pageURL': window.location.href
+                });
+            }
+        });
+
+
+        // Listen for form submission Error Hubspot form inquiry form
+        $(document).on('submit', '.hbspt-form', function(event) {
+            var errorMessage = ''; // Initialize error message
+            var formType = '"Inquiry Form'; // Modify this as needed
+            var pageURL = window.location.href; // Capture the current page URL
+            var propertyID = '16241';
+            var propertyName = 'Video Gallery';
+
+            // Name/Input validation (check if the field is empty)
+            var inputField = $(this).find('input[type="text"]');
+            if (!inputField.val()) {
+                errorMessage += 'First Name is required. ';
+            }
+
+            // Phone validation (check if the field is empty or if the phone format is incorrect)
+            var phoneField = $(this).find('input[name="phone"]');
+            var phoneValue = phoneField.val();
+            var phonePattern = /^\+?[1-9]\d{0,11}$/; // E.164 format: +1234567890 or 1234567890
+
+            if (!phoneValue) {
+                errorMessage += 'Phone number is required. ';
+            } else if (!phonePattern.test(phoneValue)) {
+                errorMessage += 'Phone number format is invalid. ';
+            }
+
+
+            // Email validation (checks if the field is empty or if the format is incorrect)
+            var emailField = $(this).find('input[type="email"]');
+            var emailValue = emailField.val();
+            var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            if (!emailValue) {
+                errorMessage += 'Email is required. ';
+            } else if (!emailPattern.test(emailValue)) {
+                errorMessage += 'Email format is invalid. ';
+            }
+
+            // If any errors are found, prevent form submission and push the error event
+            if (errorMessage) {
+                event.preventDefault(); // Prevent form submission
+
+                // Push the error event to the dataLayer
+                dataLayer.push({
+                    'event': 'form_error',
+                    'formType': formType, // Example: 'Contact Form', 'Lead Generation Form'
+                    'errorMessage': errorMessage.trim(), // Trim any trailing spaces
+                    'pageURL': pageURL // Capture the current page URL
+                });
+            } else {
+                event.preventDefault();
+                dataLayer.push({
+                    'event': 'form_submit',
+                    'formType': formType,
+                    'propertyID': '16241',
+                    'propertyName': 'Video Gallery',
+                    'pageURL': pageURL
+                });
+            }
+        });
+
+
+        /*Broucher Download form errr and submit*/
+        $(document).on('click', '.elementor-form .elementor-button', function(event) {
+            // event.preventDefault();  
+            var errorMessage = ''; // Initialize error message
+            var formType = 'Brochure Download Form'; // Modify this as needed
+            var pageURL = window.location.href; // Capture the current page URL
+            var propertyID = '16241';
+            var propertyName = 'Video Gallery';
+
+            // Name/Input validation (check if the field is empty)
+            var inputField = $('#downloadform input[type="text"]');
+            if (!inputField.val()) {
+                errorMessage += 'Name is required. ';
+            }
+
+            // Email validation (checks if the field is empty or if the format is incorrect)
+            var emailField = $('#downloadform input[type="email"]');
+            var emailValue = emailField.val();
+            var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+            if (!emailValue) {
+                errorMessage += 'Email is required. ';
+            } else if (!emailPattern.test(emailValue)) {
+                errorMessage += 'Email format is invalid. ';
+            }
+
+            // If any errors are found, prevent form submission and push the error event
+            if (errorMessage) {
+                dataLayer.push({
+                    'event': 'form_error',
+                    'formType': formType, // Example: 'Contact Form', 'Lead Generation Form'
+                    'errorMessage': errorMessage.trim(), // Trim any trailing spaces
+                    'pageURL': pageURL // Capture the current page URL
+                });
+            } else {
+                dataLayer.push({
+                    'event': 'form_submit',
+                    'formType': formType,
+                    'propertyID': '16241',
+                    'propertyName': 'Video Gallery',
+                    'pageURL': pageURL
+                });
+            }
+
+            // setTimeout(function() {  
+            // $(event.target).closest('form').submit(); 
+            // }, 300); 
+        });
+
+        // click on login menu
+        $('.sign-in-button').on('click', function() {
+            window.dataLayer = window.dataLayer || [];
+
+            window.dataLayer.push({
+                'event': 'user_signin_url',
+                'UserID': 'No user log in!!'
+            });
+        });
+
+
+        // click on signup menu
+        $('.register-button').on('click', function() {
+            window.dataLayer = window.dataLayer || [];
+
+            window.dataLayer.push({
+                'event': 'user_registration_url',
+                'UserID': 'No user log in!!'
+            });
+        });
+
+    });
+
+    // Captures details about JavaScript errors on the page
+    window.onerror = function(message, source, lineno, colno, error) {
+        // Define the error code (customize as needed)
+        let errorCode = error && error.name ? error.name : 'UnknownError';
+
+        // Push the error details to the dataLayer
+        dataLayer.push({
+            'event': 'javascriptError',
+            'errorMessage': message,
+            'errorSource': source + ':' + lineno + ':' + colno, // Include line and column numbers
+            'errorCode': errorCode // You can add more details here, like error stack if needed
+        });
+
+        // Returning true will prevent the browser from logging the error to the console
+        return false;
+    };
+     // Disable Right-Click
+     document.addEventListener('contextmenu', function(event) {
+        event.preventDefault();
+        alert('Right-click is disabled.');
+    });
+
+    // Disable Specific Keyboard Shortcuts
+    document.addEventListener('keydown', function(event) {
+        // Disable F12 (Developer Tools)
+        if (event.keyCode === 123) {
+            event.preventDefault();
+            alert('Access to developer tools is disabled.');
+        }
+        // Disable Ctrl+Shift+I (DevTools), Ctrl+Shift+J (Console), Ctrl+U (View Source), Ctrl+S (Save Page As)
+        if (event.ctrlKey && (event.key === 'u' || event.key === 'U' || event.key === 's' || event.key === 'S' || event.key === 'j' || event.key === 'J' || event.key === 'i' || event.key === 'I')) {
+            event.preventDefault();
+            alert('Keyboard shortcuts are disabled.');
+        }
+    });
+
+    // Disable Dragging Text/Elements
+    document.addEventListener('dragstart', function(event) {
+        event.preventDefault();
+    });
+
+    // Periodically Block DevTools Detection
+    setInterval(function() {
+        if (window.devtools && window.devtools.open) {
+            alert('Developer tools are open. Closing now.');
+            window.location.href = 'about:blank'; // Redirects to an empty page
+        }
+    }, 1000);
+    </script>
+</body>
+
+</html>
